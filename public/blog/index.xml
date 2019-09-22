@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Sendung für die vernetzte Welt</title>
+    <link>https://sfdvw.de/blog/</link>
+    <description>Recent content in Blogs on Sendung für die vernetzte Welt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-Hans</language>
+    <lastBuildDate>Sat, 21 Sep 2019 00:14:19 +0800</lastBuildDate>
+    
+	<atom:link href="https://sfdvw.de/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sendung 1</title>
+      <link>https://sfdvw.de/blog/2019-09/sendung-1/</link>
+      <pubDate>Sat, 21 Sep 2019 00:14:19 +0800</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2019-09/sendung-1/</guid>
+      <description>Sendung Nummer 1</description>
+    </item>
+    
+    <item>
+      <title>Sendung 2</title>
+      <link>https://sfdvw.de/blog/2019-09/sendung-2/</link>
+      <pubDate>Tue, 10 Sep 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2019-09/sendung-2/</guid>
+      <description>Hi here you can see cats in space</description>
+    </item>
+    
+    <item>
+      <title>cats in space</title>
+      <link>https://sfdvw.de/blog/2019-09/cats-in-space/</link>
+      <pubDate>Sun, 01 Sep 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2019-09/cats-in-space/</guid>
+      <description>Hi here you can see cats in space</description>
+    </item>
+    
+  </channel>
+</rss>

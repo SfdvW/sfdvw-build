@@ -1,0 +1,76 @@
+baseURL                   = "https://sfdvw.de/"
+builddrafts                = false
+languageCode               = "zn-Hans"
+canonifyurls               = true
+contentdir                 = "content"
+layoutdir                  = "layouts"
+publishdir                 = "public"
+enableEmoji                = true
+hasCJKLanguage             = true
+summaryLength              = 200
+Paginate                   = 3
+
+theme                      = "AllinOne"
+title                      = "Sendung für die vernetzte Welt"
+
+pygmentsuseclasses         = true
+
+
+[permalinks]
+  blog                     = "blog/:year-:month/:slug/"
+
+
+[taxonomies]
+  tag                      = "tags"
+  series                   = "series"
+  category                 = "categories"
+
+
+[menu]
+  [[menu.main]]
+    name                   = "Blog"
+    weight                 = -120
+    identifier             = "blog"
+    url                    = "blog/"  
+
+  [[menu.main]]
+    name                   = "About"
+    weight                 = -100
+    identifier             = "about"
+    url                    = "about/"  
+
+ 
+
+[params]
+  faviconfile              = "img/globe-563239_1920.jpg"               # from static/
+  avatar                   = "img/profile.png"             # path to image in static dir e.g img/avatar.png 
+  author                   = "Sendung für die vernetzte Welt"
+  description              = ["Immer am dritten Samstag des Monats, 20.00 Uhr, befasst sich die Sendung für die vernetzte Welt mit den Themenfeldern Technik und Gesellschaft, Internet und neue Medien. Die rechnerphile Redaktion versucht euch mitzunehmen auf eine Reise in die Welt der Daten und Netzwerke, der Onlinecommunities und Netz- und Softwarekunst."]           # appears in the site header when set to a non-empty string
+  welcome_head             = "Hello, World!"
+  welcome_word             = "Ich bin ein riesiger, elektrischer Generator… Immer am dritten Samstag des Monats, 20.00 Uhr, befasst sich die Sendung für die vernetzte Welt mit den Themenfeldern Technik und Gesellschaft, Internet und neue Medien. Die rechnerphile Redaktion versucht euch mitzunehmen auf eine Reise in die Welt der Daten und Netzwerke, der Onlinecommunities und Netz- und Softwarekunst. Ihr könnt live mitmachen 2.0: Über Jabber (tmkrth aat jabber ddot radiocorax ddot de) oder das Sendediensttelefon (Halle/4700744). Schreibt eure Fragen und Kritiken über eMail an SfdvW aat radiocorax ddot de. Funk frei!"
+
+  latestpostscount         = 5                             # how many posts to display on the home page
+  bloggroupby              = 'month'
+  dateform                 = "Jan 2, 2006"
+  dateformfull             = "2006-01-02  Monday  15:04:05"
+  noshowreadtime           = false                         # if true, don't show "<x> minutes read" in posts
+
+  # slides
+  slidesDirPath            = "themes/AllinOne/static/img/header-slides"    # path to image in local dir (path for hugo)
+  slidesDirPathURL         = "img/header-slides"    # path to image in static dir (for static pages)
+
+  # highlighting 
+  highlightjs              = true
+
+  # latex
+  katex                    = true
+
+  # links
+  email                    = "SfdvW aat radiocorax ddot de"
+  github                   = "//github.com/sfdvw"
+  include_rss              = true                          # include RSS <link> tag in <head> and show RSS icon
+  
+  # analytics
+  #googleAnalytics          = "your-google-analytic-id"
+    
+    
