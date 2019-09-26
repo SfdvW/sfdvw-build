@@ -1,0 +1,206 @@
+{
+  "show": {
+    "title": "Sendung für die vernetze Welt",
+    "subtitle": "Technik ~ Gesellschaft ~ Internet ~ neue Medien",
+    "summary": "Immer am dritten Samstag des Monats, 20.00 Uhr, befasst sich die Sendung für die vernetzte Welt mit den Themenfeldern Technik und Gesellschaft, Internet und neue Medien. Die rechnerphile Redaktion versucht euch mitzunehmen auf eine Reise in die Welt der Daten und Netzwerke, der Onlinecommunities und Netz- und Softwarekunst. Radio Corax Freies Radio im Raum Halle ist zu höhren auf UKW 95.9 oder im Webplayer unter: https://radiocorax.de/wp-content/themes/Radiocorax/popup-player/popupplayer.php Ihr könnt live mitmachen 2.0: Über Jabber (tmkrth aat jabber ddot radiocorax ddot de) oder das Sendediensttelefon (Halle/4700744). Schreibt eure Fragen und Kritiken über eMail an SfdvW aat radiocorax ddot de. Funk frei!",
+    "poster": "https://sfdvw.de/img/profile.png",
+    "link": "https://sfdvw.de"
+  },
+  "reference": {
+    "config": "https://sfdvw.de"
+  },
+  "theme": {
+    "main": "#003333"
+  },
+  "title": "SfdvW - 84 - Win10-Privat",
+  "subtitle": "WIN10 - Windows - ShutUp10 - Privatsphäre",
+  "summary": "Win10-Privat, wir geben Tipps und teilen unsere Erfahrungen. Mit dabei sind heute Markus, Nilo Jotilux und Tmk.",
+  "publicationDate": "2019-09-21T20:00:00+00:00",
+  "poster": "https://sfdvw.de/img/profile.png",
+  "duration": "01:00:01.000",
+  "link": "https://sfdvw.de/blog/2019-09/sfdvw-84-win10-privat/",
+  "audio": [
+    {
+      "url": "https://tmkrth.jumpingcrab.com:28828/.sfdvw/Sendung_fuer_die_vernetzte_Welt_%2884%29_2019_09_21_Windows_10_Privatsph%C3%A4re.flac",
+      "size": "",
+      "title": "flac",
+      "mimeType": "audio/flac"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00:00.000",
+      "title": "Intro",
+      "href": "",
+      "image": "https://picsum.photos/400/400/?random&image=1"
+    },
+    {
+      "start": "00:00:24.000",
+      "title": "Begrüßung",
+      "href": "",
+      "image": "https://picsum.photos/400/400/?random&image=2"
+    },
+    {
+      "start": "00:02:03.000",
+      "title": "Musik1",
+      "href": "",
+      "image": "https://picsum.photos/400/400/?random&image=3"
+    },
+    {
+      "start": "00:04:50.000",
+      "title": "Windows Offline-Konto oder lokales Konto",
+      "href": "",
+      "image": "https://picsum.photos/400/400/?random&image=4"
+    },
+    {
+      "start": "00:10:55.500",
+      "title": "Musik2",
+      "href": "",
+      "image": "https://picsum.photos/400/400/?random&image=5"
+    },
+    {
+      "start": "00:12:27.000",
+      "title": "Bloat-Apps, One-Note, Office",
+      "href": "",
+      "image": "https://picsum.photos/400/400/?random&image=6"
+    },
+    {
+      "start": "00:20:45.000",
+      "title": "Musik3",
+      "href": "",
+      "image": "https://picsum.photos/400/400/?random&image=7"
+    },
+    {
+      "start": "00:25:44.000",
+      "title": "Sempervideo - Windows 10 Spy-Funktionen abschalten",
+      "href": "https://www.youtube.com/watch?v=J8J1UGEloGo",
+      "image": "https://picsum.photos/400/400/?random&image=8"
+    },
+    {
+      "start": "00:32:30.000",
+      "title": "App Berechtigungen, Ordneroptionen Dateiendungen anzeigen, Defender oder 3rd Party Defender-Einstellungen",
+      "href": "",
+      "image": "https://picsum.photos/400/400/?random&image=9"
+    },
+    {
+      "start": "00:42:20.000",
+      "title": "Musik4",
+      "href": "",
+      "image": "https://picsum.photos/400/400/?random&image=10"
+    },
+    {
+      "start": "00:45:14.000",
+      "title": "Braucht man Windows wirklich",
+      "href": "",
+      "image": "https://picsum.photos/400/400/?random&image=11"
+    },
+    {
+      "start": "00:49:19.000",
+      "title": "Windows 10 zum Schweigen bringen!",
+      "href": "https://www.oo-software.com/de/shutup10",
+      "image": "https://picsum.photos/400/400/?random&image=12"
+    },
+    {
+      "start": "00:51:24.000",
+      "title": "ITZ MLU Win 10 Privacy",
+      "href": "https://www.itz.uni-halle.de/win10",
+      "image": "https://picsum.photos/400/400/?random&image=13"
+    },
+    {
+      "start": "00:53:55.000",
+      "title": "Win10 genießen",
+      "href": "",
+      "image": "https://picsum.photos/400/400/?random&image=14"
+    },
+   {
+      "start": "00:55:41.000",
+      "title": "Veranstaltung und Outro",
+      "href": "",
+      "image": "https://picsum.photos/400/400/?random&image=15"
+    }
+  ],
+  "runtime": {
+    "locale": "de-De",
+    "language": "de"
+  },
+  "visibleComponents": [
+    "tabInfo",
+    "tabChapters",
+    "tabDownload",
+    "tabAudio",
+    "tabShare",
+    "poster",
+    "showTitle",
+    "episodeTitle",
+    "subtitle",
+    "progressbar",
+    "controlSteppers",
+    "controlChapters"
+  ],
+  "contributors": [
+    {
+      "name": "Tmk",
+      "avatar": "https://avatars2.githubusercontent.com/u/1104628?s=460&v=4",
+      "role": {
+        "id": "9",
+        "slug": "team",
+        "title": "Team"
+      },
+      "group": {
+        "id": "1",
+        "slug": "onair",
+        "title": "On Air"
+      },
+      "comment": null,
+      "id": "tmk"
+    },
+    {
+      "name": "nilo",
+      "avatar": "https://avatars2.githubusercontent.com/u/1135405?s=460&v=4",
+      "role": {
+        "id": "9",
+        "slug": "team",
+        "title": "Team"
+      },
+      "group": {
+        "id": "1",
+        "slug": "onair",
+        "title": "On Air"
+      },
+      "comment": null,
+      "id": "nilo"
+    },
+    {
+      "name": "markus",
+      "avatar": "https://avatars1.githubusercontent.com/u/6626239?s=460&v=4",
+      "role": {
+        "id": "9",
+        "slug": "team",
+        "title": "Team"
+      },
+      "group": {
+        "id": "1",
+        "slug": "onair",
+        "title": "On Air"
+      },
+      "comment": null,
+      "id": "markus"
+    },
+    {
+      "name": "jotilux",
+      "avatar": "https://avatars0.githubusercontent.com/u/31257683?s=460&v=4",
+      "role": {
+        "id": "9",
+        "slug": "team",
+        "title": "Team"
+      },
+      "group": {
+        "id": "1",
+        "slug": "onair",
+        "title": "On Air"
+      },
+      "comment": null,
+      "id": "jotilux"
+    }    
+  ]
+}
