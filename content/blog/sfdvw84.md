@@ -10,6 +10,7 @@ categories: ["Sendebeitrag"]
 img: ""
 toc: false
 summary: "Sendung Nummer 84 Win10-Private"
+link: "https://tmkrth.jumpingcrab.com:28828/.sfdvw/Sendung_fuer_die_vernetzte_Welt_%2884%29_2019_09_21_Windows_10_Privatsph%C3%A4re.flac"
 ---
 
 <div id="example"></div>
