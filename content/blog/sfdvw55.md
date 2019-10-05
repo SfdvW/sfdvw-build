@@ -14,6 +14,7 @@ summary: "Sendung Nummer 55 Alexander Gerst auf der ISS"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw55.json');
 </script>

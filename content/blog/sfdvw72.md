@@ -14,6 +14,7 @@ summary: "Sendung Nummer 72 R.I.P. Gametrack"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw72.json');
 </script>

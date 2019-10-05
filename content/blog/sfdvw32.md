@@ -14,6 +14,7 @@ summary: "Sendung Nummer 32 c't online talk auf DRadioWissen Hacktivismus"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw32.json');
 </script>

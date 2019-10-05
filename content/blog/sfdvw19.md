@@ -14,6 +14,7 @@ summary: "Sendung Nummer 19 Soziale Netzwerke im Internet"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw19.json');
 </script>

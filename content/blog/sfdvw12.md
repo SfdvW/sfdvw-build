@@ -14,6 +14,7 @@ summary: "Sendung Nummer 12 Gamboy Musik"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw12.json');
 </script>

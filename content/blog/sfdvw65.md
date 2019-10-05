@@ -14,6 +14,7 @@ summary: "Sendung Nummer 65 Radio Revolten"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw65.json');
 </script>

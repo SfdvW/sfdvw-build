@@ -14,6 +14,7 @@ summary: "Sendung Nummer 46 Radio Wauland WDR"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw46.json');
 </script>

@@ -14,6 +14,7 @@ summary: "Sendung Nummer 18-1 Freiheit statt Angst"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw18-1.json');
 </script>

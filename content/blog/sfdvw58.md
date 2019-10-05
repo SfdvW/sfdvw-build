@@ -14,6 +14,7 @@ summary: "Sendung Nummer 58 Frank Riegers Vorschlag Re Publica 2015"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw58.json');
 </script>

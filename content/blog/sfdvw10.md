@@ -14,6 +14,7 @@ summary: "Sendung Nummer 10 Chaos Communication Congress"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw10.json');
 </script>

@@ -14,6 +14,7 @@ summary: "Sendung Nummer 16 Zensursula und Internet in Afrika Teil 2"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw16.json');
 </script>

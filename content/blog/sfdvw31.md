@@ -14,6 +14,7 @@ summary: "Sendung Nummer 31 Hans Peter Duerr"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw31.json');
 </script>

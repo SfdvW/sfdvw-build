@@ -14,6 +14,7 @@ summary: "Sendung Nummer 24 Zusammenfassung ohne Inhalt mit YHT"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw24.json');
 </script>

@@ -14,6 +14,7 @@ summary: "Sendung Nummer 62 Wireless Community Weekend 2016 FFHarz TVWhitespace"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw62.json');
 </script>

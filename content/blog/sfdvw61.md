@@ -14,6 +14,7 @@ summary: "Sendung Nummer 61 Freifunk Halle"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw61.json');
 </script>

@@ -14,6 +14,7 @@ summary: "Sendung Nummer 06 Freifunk"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw06.json');
 </script>

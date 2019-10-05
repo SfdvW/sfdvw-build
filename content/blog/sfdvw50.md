@@ -14,6 +14,7 @@ summary: "Sendung Nummer 50 Omri Lahav Remixed"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw50.json');
 </script>

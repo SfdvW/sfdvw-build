@@ -14,6 +14,7 @@ summary: "Sendung Nummer 70 Frank Rieger im NSA-Untersuchungsausschuss"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw70.json');
 </script>

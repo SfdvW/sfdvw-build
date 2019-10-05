@@ -14,6 +14,7 @@ summary: "Sendung Nummer 13-2.0 Hacken Freiheit Anarchie eine Suche nach Schnitt
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw13-2.0.json');
 </script>

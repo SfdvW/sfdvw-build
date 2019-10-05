@@ -14,6 +14,7 @@ summary: "Sendung Nummer 18-2 Altes Heizwerk Community Media Center in Halle"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw18-2.json');
 </script>

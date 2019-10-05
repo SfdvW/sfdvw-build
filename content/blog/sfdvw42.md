@@ -14,6 +14,7 @@ summary: "Sendung Nummer 42 Gametrack Machinarium"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw42.json');
 </script>

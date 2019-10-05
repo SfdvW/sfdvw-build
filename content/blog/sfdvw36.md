@@ -14,6 +14,7 @@ summary: "Sendung Nummer 36 DRadioWissen Netzreporter Piraten in Berlin"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw36.json');
 </script>

@@ -14,6 +14,7 @@ summary: "Sendung Nummer 28 Radio Chaotica auf Querfunk Gulaschprogrammiernacht8
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw28.json');
 </script>

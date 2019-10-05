@@ -14,6 +14,7 @@ summary: "Sendung Nummer 77 Radio Garden von Bernd und Lars"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw77.json');
 </script>

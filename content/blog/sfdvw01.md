@@ -14,6 +14,7 @@ summary: "Sendung Nummer 01 Hacker1nnen"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw01.json');
 </script>

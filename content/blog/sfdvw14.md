@@ -14,6 +14,7 @@ summary: "Sendung Nummer 14 Internet in Afrika Teil 1 OLPC"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw14.json');
 </script>

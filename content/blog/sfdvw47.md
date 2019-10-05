@@ -14,6 +14,7 @@ summary: "Sendung Nummer 47 29C3 Jacob Applebaum"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw47.json');
 </script>

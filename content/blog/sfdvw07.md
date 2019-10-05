@@ -14,6 +14,7 @@ summary: "Sendung Nummer 07 Terminal 21 im Ferienkommunismus"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw07.json');
 </script>

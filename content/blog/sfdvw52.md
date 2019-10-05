@@ -14,6 +14,7 @@ summary: "Sendung Nummer 52 Alpha Forum mit Constanze Kurz"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw52.json');
 </script>

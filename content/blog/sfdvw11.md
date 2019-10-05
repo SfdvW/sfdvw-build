@@ -14,6 +14,7 @@ summary: "Sendung Nummer 11 IP Adressen"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw11.json');
 </script>

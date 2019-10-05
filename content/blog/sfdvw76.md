@@ -14,6 +14,7 @@ summary: "Sendung Nummer 76 Klinke Live TODO"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw76.json');
 </script>

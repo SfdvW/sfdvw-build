@@ -14,6 +14,7 @@ summary: "Sendung Nummer 56 Alternativlos 32 Über den kalten Krieg damals und h
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw56.json');
 </script>

@@ -14,6 +14,7 @@ summary: "Sendung Nummer 37 Buchla 700"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw37.json');
 </script>

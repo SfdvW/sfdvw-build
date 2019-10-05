@@ -14,6 +14,7 @@ summary: "Sendung Nummer 33 c't online talk auf DRadioWissen IPv6"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw33.json');
 </script>

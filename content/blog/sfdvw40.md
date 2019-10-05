@@ -14,6 +14,7 @@ summary: "Sendung Nummer 40 Cx Jingles mit Jay b"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw40.json');
 </script>

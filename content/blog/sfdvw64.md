@@ -14,6 +14,7 @@ summary: "Sendung Nummer 64 El Grande Nada Live"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw64.json');
 </script>

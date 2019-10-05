@@ -14,6 +14,7 @@ summary: "Sendung Nummer 39 LAN"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw39.json');
 </script>

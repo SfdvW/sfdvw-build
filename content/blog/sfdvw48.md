@@ -14,6 +14,7 @@ summary: "Sendung Nummer 48 Tmks Lieblingsmusik"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw48.json');
 </script>

@@ -14,6 +14,7 @@ summary: "Sendung Nummer 44 Wireless Weekend 2012"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw44.json');
 </script>

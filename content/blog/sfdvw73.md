@@ -14,6 +14,7 @@ summary: "Sendung Nummer 73 Do you know Squarepusher PAULSTRETCH"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw73.json');
 </script>

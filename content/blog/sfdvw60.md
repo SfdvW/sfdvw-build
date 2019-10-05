@@ -14,6 +14,7 @@ summary: "Sendung Nummer 60 Pommes Weltreisen Teil 1"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw60.json');
 </script>

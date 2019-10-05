@@ -14,6 +14,7 @@ summary: "Sendung Nummer 75 Mit Code die Welt verbessern"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw75.json');
 </script>

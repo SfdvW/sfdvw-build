@@ -14,6 +14,7 @@ summary: "Sendung Nummer 38 Korg meets Minecraft feat Jay und Jay"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw38.json');
 </script>

@@ -14,6 +14,7 @@ summary: "Sendung Nummer 59 Alexander Gerst 6 Monate leben und arbeiten auf der 
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw59.json');
 </script>

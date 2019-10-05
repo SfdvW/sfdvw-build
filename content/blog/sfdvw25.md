@@ -14,6 +14,7 @@ summary: "Sendung Nummer 25 Freifunk Stand der Dinge WCW2010 WBOTM3 FOSSASIA GSO
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw25.json');
 </script>

@@ -14,6 +14,7 @@ summary: "Sendung Nummer 05 principia discordia"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw05.json');
 </script>

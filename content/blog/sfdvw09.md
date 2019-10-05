@@ -14,6 +14,7 @@ summary: "Sendung Nummer 09 Krude Websites"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw09.json');
 </script>

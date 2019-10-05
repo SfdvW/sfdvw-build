@@ -14,6 +14,7 @@ summary: "Sendung Nummer 34 DRadioWissen Netzreporter Urheberrecht"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw34.json');
 </script>

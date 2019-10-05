@@ -14,6 +14,7 @@ summary: "Sendung Nummer 57 CRE203 Freifunk statt Angst"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw57.json');
 </script>

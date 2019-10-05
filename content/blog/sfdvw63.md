@@ -14,6 +14,7 @@ summary: "Sendung Nummer 63 Tmks Lieblingsmusik 2"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw63.json');
 </script>

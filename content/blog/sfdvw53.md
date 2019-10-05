@@ -14,6 +14,7 @@ summary: "Sendung Nummer 53 Kulturprodukt 2014 und BSD mit Sthag und Jay"
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw53.json');
 </script>
