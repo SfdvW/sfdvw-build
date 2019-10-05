@@ -12,3 +12,11 @@ toc: false
 summary: "Sendung Nummer 79 - R.I.P. Gametrack 2"
 ---
 Mit dabei: tmk
+
+
+<div id="example"></div>
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
+<script>
+  podlovePlayer('#example', '/blog/sfdvw79.json');
+</script>

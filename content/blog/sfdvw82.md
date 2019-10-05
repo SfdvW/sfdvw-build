@@ -12,3 +12,11 @@ toc: false
 summary: "Sendung Nummer 82 - tragedy of systemd"
 ---
 Mit dabei: tmk, marcus, simon, tim
+
+
+<div id="example"></div>
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
+<script>
+  podlovePlayer('#example', '/blog/sfdvw82.json');
+</script>

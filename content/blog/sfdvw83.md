@@ -12,3 +12,10 @@ toc: false
 summary: "Sendung Nummer 83 - Jugend hackt, junghacker, EBK TdoT"
 ---
 Mit dabei: tmk, nilo
+
+<div id="example"></div>
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
+<script>
+  podlovePlayer('#example', '/blog/sfdvw83.json');
+</script>

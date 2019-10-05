@@ -12,3 +12,11 @@ toc: false
 summary: "Sendung Nummer 78 - Tmks Lieblingsmusik 3"
 ---
 Mit dabei: tmk
+
+
+<div id="example"></div>
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
+<script>
+  podlovePlayer('#example', '/blog/sfdvw78.json');
+</script>
