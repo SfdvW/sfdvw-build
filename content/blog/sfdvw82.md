@@ -10,12 +10,12 @@ categories: ["Sendebeitrag"]
 img: ""
 toc: false
 summary: "Sendung Nummer 82 - tragedy of systemd"
-link: "https://tmkrth.jumpingcrab.com:28828/.sfdvw/Sendung_fuer_die_vernetzte_Welt_(82)_2019_03_16_tragedy_of_systemd.flac"
+#link: ""
 ---
 Mit dabei: tmk, marcus, simon, tim
 
 
-<div id="example"></div>
+<div align="center" id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
 
 <script>

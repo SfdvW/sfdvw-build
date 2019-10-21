@@ -16,12 +16,12 @@
   "subtitle": "",
   "summary": "In der Ausgeabe 82 gibt es folgendes Thema: tragedy of systemd",
   "publicationDate": "2019-03-16T20:00:00+02:00",
-  "poster": "https://sfdvw.de/img/profile.png",
+  "poster": "/img/blog/sfdvw82.jpg",
   "duration": "01:00:00.000",
   "link": "https://sfdvw.de/blog/2019-03/sfdvw-82-tragedy-of-systemd/",
   "audio": [
     {
-      "url": "https://tmkrth.jumpingcrab.com:28828/.sfdvw/Sendung_fuer_die_vernetzte_Welt_(82)_2019_03_16_tragedy_of_systemd.flac",
+      "url": "",
       "size": "",
       "title": "flac",
       "mimeType": "audio/flac"

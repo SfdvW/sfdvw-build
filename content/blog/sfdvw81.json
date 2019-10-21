@@ -16,21 +16,27 @@
   "subtitle": "",
   "summary": "In der Ausgeabe 81 gibt es folgendes Thema: 35C3 Immer noch nichts zu verbergen und Hebocon",
   "publicationDate": "2019-01-19T20:00:00+02:00",
-  "poster": "https://sfdvw.de/img/profile.png",
+  "poster": "/img/blog/sfdvw85.jpg",
   "duration": "01:00:00.000",
   "link": "https://sfdvw.de/blog/2019-01/sfdvw-81-35C3-Immer-noch-nichts-zu-verbergen-und-Hebocon/",
   "audio": [
     {
-      "url": "https://tmkrth.jumpingcrab.com:28828/.sfdvw/Sendung_fuer_die_vernetzte_Welt_(81)_2019_01_19_35C3_Immer_noch_nichts_zu_verbergen_und_Hebocon.flac",
+      "url": "/audio/Sendung_fuer_die_vernetzte_Welt_(81)_2019_01_19_35C3_Immer_noch_nichts_zu_verbergen_und_Hebocon.mp3",
       "size": "",
-      "title": "flac",
-      "mimeType": "audio/flac"
+      "title": "mp3",
+      "mimeType": "audio/mp3"
     }
   ],
   "chapters": [
     {
       "start": "00:00:00.000",
-      "title": "Intro",
+      "title": "35C3",
+      "href": "",
+      "image": "https://picsum.photos/400/400/?random&image=1"
+    },
+    {
+      "start": "00:27:18.000",
+      "title": "Hebocon",
       "href": "",
       "image": "https://picsum.photos/400/400/?random&image=1"
     }

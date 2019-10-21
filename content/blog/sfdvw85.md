@@ -8,12 +8,12 @@ tags: ["Messenger", "moblie", "Riot", "signal", "whatsapp", "threema", "telegram
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""
-toc: false
+toc: true
 summary: "Sendung Nummer 85 mobile Messenger"
-link: ""
+link: "https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(85)_2019_10_19_Mobile_Messenger.mp3"
 ---
 
-<div id="example"></div>
+<div align="center" id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
 
 <script>
@@ -23,31 +23,31 @@ link: ""
 Feedback zur Sendung?
 [Schreibe uns ein Kommentar](mailto:SfdvW@radiocorax.de)
 
-### SfdvW_2019-10-19_(85)_mobile_Messenger
+### SfdvW - 85 - mobile Messenger
 Sendungstermin 19.10.2019 20-21Uhr
 mit dabei: tmk, nilo, Wolfgang, markus
 
 #### Worum geht es Heute
 * Thema mobile messenger: "Die Liste von Kommunikationsprogrammen resp. Diensten ist lang. Eine Auswahl schwierig. Meist wird daher der Dienst zur **eigenen Gewohnheit** übernommen, welcher auch das **persönliche Umfeld** am häufigsten benutzt. Die Unterschiede sind jedoch gross, so dass sich eine genauere Betrachtung lohnt." - digitale-gesellschaft.ch 2016-11-07 
-* Überblick Wikipedia: https://de.wikipedia.org/wiki/Liste_von_mobilen_Instant-Messengern
-* Überblick digitale Gesellschaft: https://www.digitale-gesellschaft.ch/2016/11/07/whatsapp-e-mail-sms-co-auf-sicherheit-und-nachhaltigkeit-bewertet-produktvergleich/
+* [Überblick Wikipedia](https://de.wikipedia.org/wiki/Liste_von_mobilen_Instant-Messengern)
+* [Überblick digitale Gesellschaft](https://www.digitale-gesellschaft.ch/2016/11/07/whatsapp-e-mail-sms-co-auf-sicherheit-und-nachhaltigkeit-bewertet-produktvergleich/)
 * Funktionen die ein mobile messenger haben kann
     * Textnachrichten, Sprachnachrichten, Bildnachrichten, Gruppenchat, Asynchrone Kommunikation (Nachricht wird bei Status Offline zwischengespeichert)
 
 #### "früher"
 * pager ([quix](https://de.wikipedia.org/wiki/Quix), telmi, [scall](https://de.wikipedia.org/wiki/Scall), [skyper](https://de.wikipedia.org/wiki/Skyper_(Pager)))
-    * Funkmeldeempfänger und Pager Computer:Club2  https://www.youtube.com/watch?v=7N-CxZXpV_8
-* sms / stille sms https://de.wikipedia.org/wiki/Stille_SMS
+    * [Funkmeldeempfänger und Pager Computer:Club2](https://www.youtube.com/watch?v=7N-CxZXpV_8)
+* sms / [stille sms](https://de.wikipedia.org/wiki/Stille_SMS)
 
 #### wie verbreitet ist es
 * Persönliche Erfahrung:  Was nutzen/haben wir genutzt?
     * Riot (Matrix)
-        * https://en.wikipedia.org/wiki/Matrix_(communication_protocol)
+        * [Matrix_(communication_protocol)](https://en.wikipedia.org/wiki/Matrix_(communication_protocol))
     * Whatsapp
         * am weiten verbreitetestr Ende zu Ende verschlüsselter Messanger 
             * Verschlüsselung von Signal "eingekauft"
     * Signal
-        * https://signal.org/blog/signal-foundation/
+        * [signal-foundation](https://signal.org/blog/signal-foundation/)
         * benötigt eine Telefonnummer
     * Threema
         * Bosch und Schweizer Bundesbehörden nutzen es
@@ -58,9 +58,9 @@ mit dabei: tmk, nilo, Wolfgang, markus
     * XMPP/Jabber
         * Selbst hosten, kompliziert aber Grundlage vieler anderer messagnger (facebook)
         * [Androidclient](https://conversations.im/)
-    * Chiffry (https://www.chiffry.de/)
+    * [Chiffry](https://www.chiffry.de/)
         * Regional (Teutschenthal)
-    * briar (https://briarproject.org/)
+    * [briar](https://briarproject.org/)
         * serverless
     
     **gibt auch noch andere Tools, die für messaging benutzt werden können**
@@ -115,7 +115,7 @@ mit dabei: tmk, nilo, Wolfgang, markus
 
 * WhatsApp-Sprachnachricht
 
-* https://netzpolitik.org/tag/messenger/
+* [Netzpolitikartikel über Messenger](https://netzpolitik.org/tag/messenger/)
 
 * non-verbale-Kommunikation aka warum gibt es die bunten bildchen eigentlich
     * [emojis in der Forschung - wie emojis unsere Kommunikation ergaenzen](https://www.stuttgarter-nachrichten.de/inhalt.emojis-in-der-forschung-wie-emojis-unsere-kommunikation-ergaenzen.61649867-1f7d-4c30-8c5f-4a6e38e00f79.html)

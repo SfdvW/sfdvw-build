@@ -21,10 +21,10 @@
   "link": "https://sfdvw.de/blog/2019-10/sfdvw-85-mobile-Messenger/",
   "audio": [
     {
-      "url": "https://tmkrth.jumpingcrab.com:28828/.sfdvw/Sendung_fuer_die_vernetzte_Welt_(85)_2019_10_19_mobile_Messenger.flac",
+      "url": "/audio/Sendung_fuer_die_vernetzte_Welt_(85)_2019_10_19_Mobile_Messenger.mp3",
       "size": "",
-      "title": "flac",
-      "mimeType": "audio/flac"
+      "title": "mp3",
+      "mimeType": "audio/mp3"
     }
   ],
   "chapters": [
@@ -32,7 +32,7 @@
       "start": "00:00:00.000",
       "title": "Intro",
       "href": "",
-      "image": "https://picsum.photos/400/400/?random&image=1"
+      "image": ""
     }
   ],
   "runtime": {
