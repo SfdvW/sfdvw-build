@@ -30,7 +30,7 @@ def main():
        f.write("series: [\"SfdvW\"]\r\n")
        f.write("categories: [\"Sendebeitrag\"]\r\n")
        f.write("img: \"\"\r\n")
-       f.write("toc: false\r\n")
+       f.write("toc: true\r\n")
        f.write("summary: \"Sendung Nummer %s %s\"\r\n" % (nr, name))
        f.write("link: \"\"\r\n")
        f.write("---\r\n")
