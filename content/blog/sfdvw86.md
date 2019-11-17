@@ -11,7 +11,7 @@ img: ""
 toc: true
 summary: "Sendung Nummer 86 Ubuntu-Linuxeinstieg"
 link: ""
-chapters: "<psc:chapter start=\"00:00:00\" title=\"Intro\" />"
+chapters: "<chapter start=\"00:00:00\" title=\"Intro\" />"
 ---
 
 <div align="center" id="example"></div>

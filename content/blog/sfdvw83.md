@@ -11,7 +11,7 @@ img: ""
 toc: false
 summary: "Sendung Nummer 83 - Jugend hackt, junghacker, EBK TdoT"
 link: ""
-chapters: "<psc:chapter start=\"00:00:00\" title=\"Intro\" />"
+chapters: "<chapter start=\"00:00:00\" title=\"Intro\" />"
 ---
 <div align="center" id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>

@@ -29,10 +29,9 @@
       <enclosure url="{{ .Params.link }}" type="audio/mpeg" length="1" />
       
       <!-- specify chapter information -->
-      <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
-      
-                {{ .Params.chapters }}
-      </psc:chapters>
+      <chapters>
+                      {{ .Params.chapters }}
+      </chapters>
       
     </item>
     {{ end }}

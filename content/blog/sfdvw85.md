@@ -11,7 +11,7 @@ img: ""
 toc: true
 summary: "Sendung Nummer 85 mobile Messenger"
 link: "https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(85)_2019_10_19_Mobile_Messenger.mp3"
-chapters: "<psc:chapter start=\"00:00:00\" title=\"Intro\" />"
+chapters: "<chapter start=\"00:00:00\" title=\"Intro\" />"
 ---
 
 <div align="center" id="example"></div>
