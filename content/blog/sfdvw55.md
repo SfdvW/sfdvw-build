@@ -4,7 +4,7 @@ publishdate: "2014-07-12+20:00"
 lastmod: "2014-07-12+20:00"
 draft: false
 title: "SfdvW - 55 - Alexander Gerst auf der ISS"
-tags: [""]
+tags: ["Alenxander", "Gerst", "ISS"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

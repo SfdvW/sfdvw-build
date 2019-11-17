@@ -4,7 +4,7 @@ publishdate: "2008-03-26+20:00"
 lastmod: "2008-03-26+20:00"
 draft: false
 title: "SfdvW - 04 - taz-Stallman Interview und Chaosradio Pfandhacking"
-tags: [""]
+tags: ["Chaosradio", "Pfandhacking", "taz-Stallman Interview"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

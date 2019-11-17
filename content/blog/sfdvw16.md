@@ -4,7 +4,7 @@ publishdate: "2009-06-20+20:00"
 lastmod: "2009-06-20+20:00"
 draft: false
 title: "SfdvW - 16 - Zensursula und Internet in Afrika Teil 2"
-tags: [""]
+tags: ["Zensursula", "Internet"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

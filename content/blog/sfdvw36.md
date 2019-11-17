@@ -4,7 +4,7 @@ publishdate: "2011-10-08+20:00"
 lastmod: "2011-10-08+20:00"
 draft: false
 title: "SfdvW - 36 - DRadioWissen Netzreporter Piraten in Berlin"
-tags: [""]
+tags: ["Piraten", "Berlin"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

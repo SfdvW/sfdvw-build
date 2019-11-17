@@ -4,7 +4,7 @@ publishdate: "2011-12-31+20:00"
 lastmod: "2011-12-31+20:00"
 draft: false
 title: "SfdvW - 39 - LAN"
-tags: [""]
+tags: ["LAN"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

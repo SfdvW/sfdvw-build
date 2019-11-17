@@ -4,7 +4,7 @@ publishdate: "2016-10-15+20:00"
 lastmod: "2016-10-15+20:00"
 draft: false
 title: "SfdvW - 65 - Radio Revolten"
-tags: [""]
+tags: ["Radio", "REvolten"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

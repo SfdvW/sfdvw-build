@@ -4,7 +4,7 @@ publishdate: "2016-09-17+20:00"
 lastmod: "2016-09-17+20:00"
 draft: false
 title: "SfdvW - 64 - El Grande Nada Live"
-tags: [""]
+tags: ["El_Grande_Nada"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

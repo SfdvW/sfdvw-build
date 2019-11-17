@@ -4,7 +4,7 @@ publishdate: "2011-01-29+20:00"
 lastmod: "2011-01-29+20:00"
 draft: false
 title: "SfdvW - 30 - Nam June Paik"
-tags: [""]
+tags: ["Nam", "June", "Paik"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

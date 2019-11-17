@@ -4,7 +4,7 @@ publishdate: "2012-05-19+20:00"
 lastmod: "2012-05-19+20:00"
 draft: false
 title: "SfdvW - 44 - Wireless Weekend 2012"
-tags: [""]
+tags: ["Wireless", "Weekend"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

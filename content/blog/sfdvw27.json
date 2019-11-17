@@ -16,12 +16,12 @@
   "subtitle": "",
   "summary": "In der Ausgeabe 27 gibt es folgendes Thema: Radio Tux Sommersendung",
   "publicationDate": "2010-08-14T20:00:00+02:00",
-  "poster": "https://sfdvw.de/img/profile.png",
+  "poster": "https://sfdvw.de/img/profile.jpg",
   "duration": "01:00:00.000",
   "link": "https://sfdvw.de/blog/2010-08/sfdvw-27-Radio-Tux-Sommersendung/",
   "audio": [
     {
-      "url": "https://tmkrth.jumpingcrab.com:28828/.sfdvw/Sendung_fuer_die_vernetzte_Welt_(27)_2010_08_14_Radio_Tux_Sommersendung.ogg",
+      "url": "",
       "size": "",
       "title": "flac",
       "mimeType": "audio/flac"

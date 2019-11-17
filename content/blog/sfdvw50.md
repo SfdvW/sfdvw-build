@@ -4,7 +4,7 @@ publishdate: "2013-04-20+20:00"
 lastmod: "2013-04-20+20:00"
 draft: false
 title: "SfdvW - 50 - Omri Lahav Remixed"
-tags: [""]
+tags: ["Omri", "Lahav", "Remixed"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

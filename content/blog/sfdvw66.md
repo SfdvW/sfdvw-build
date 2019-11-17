@@ -4,7 +4,7 @@ publishdate: "2016-11-19+20:00"
 lastmod: "2016-11-19+20:00"
 draft: false
 title: "SfdvW - 66 - Amateurfunk"
-tags: [""]
+tags: ["Amateurfunk"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

@@ -4,7 +4,7 @@ publishdate: "2014-05-17+20:00"
 lastmod: "2014-05-17+20:00"
 draft: false
 title: "SfdvW - 53 - Kulturprodukt 2014 und BSD mit Sthag und Jay"
-tags: [""]
+tags: ["Kulturprodukt", "BSD"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

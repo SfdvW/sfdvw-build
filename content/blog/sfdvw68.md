@@ -4,7 +4,7 @@ publishdate: "2017-01-21+20:00"
 lastmod: "2017-01-21+20:00"
 draft: false
 title: "SfdvW - 68 - Kongressfieber"
-tags: [""]
+tags: ["Kongressfieber"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

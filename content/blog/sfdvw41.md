@@ -4,7 +4,7 @@ publishdate: "2012-02-25+20:00"
 lastmod: "2012-02-25+20:00"
 draft: false
 title: "SfdvW - 41 - Wikipedia Run mit Jay"
-tags: [""]
+tags: ["Wikipedia", "Run"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

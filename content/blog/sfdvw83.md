@@ -4,13 +4,14 @@ publishdate: "2019-08-17+20:00"
 lastmod: "2019-08-17+20:00"
 draft: false
 title: "SfdvW - 83 - Jugend hackt, junghacker, EBK TdoT"
-tags: ["junghacker", "EBK", "jugend"]
+tags: ["junghacker", "EBK", "jugend_hackt"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""
 toc: false
 summary: "Sendung Nummer 83 - Jugend hackt, junghacker, EBK TdoT"
-#link: ""
+link: ""
+chapters: "<psc:chapter start=\"00:00:00\" title=\"Intro\" />"
 ---
 <div align="center" id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>

@@ -4,7 +4,7 @@ publishdate: "2015-05-16+20:00"
 lastmod: "2015-05-16+20:00"
 draft: false
 title: "SfdvW - 58 - Frank Riegers Vorschlag Re Publica 2015"
-tags: [""]
+tags: ["Frank", "Rieger", "Re_Publica"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

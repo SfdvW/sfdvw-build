@@ -4,7 +4,7 @@ publishdate: "2010-08-14+20:00"
 lastmod: "2010-08-14+20:00"
 draft: false
 title: "SfdvW - 27 - Radio Tux Sommersendung"
-tags: [""]
+tags: ["Radio", "Tux", "Sommersendung"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

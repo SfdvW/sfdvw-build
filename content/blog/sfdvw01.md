@@ -4,7 +4,7 @@ publishdate: "2008-01-23+20:00"
 lastmod: "2008-01-23+20:00"
 draft: false
 title: "SfdvW - 01 - Hacker1nnen"
-tags: [""]
+tags: ["Hacker", "Hacker1nnen"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

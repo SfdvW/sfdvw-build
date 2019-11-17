@@ -4,7 +4,7 @@ publishdate: "2014-11-01+20:00"
 lastmod: "2014-11-01+20:00"
 draft: false
 title: "SfdvW - 56 - Alternativlos 32 Über den kalten Krieg damals und heute"
-tags: [""]
+tags: ["Alternativlos", "Kalter", "Krieg"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

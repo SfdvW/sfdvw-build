@@ -4,7 +4,7 @@ publishdate: "2013-03-23+20:00"
 lastmod: "2013-03-23+20:00"
 draft: false
 title: "SfdvW - 49 - Big Picture Science We Heart Robots"
-tags: [""]
+tags: ["We_Heart_Robots", "Big_Picture_Sience"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

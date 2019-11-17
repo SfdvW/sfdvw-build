@@ -4,7 +4,7 @@ publishdate: "2011-03-26+20:00"
 lastmod: "2011-03-26+20:00"
 draft: false
 title: "SfdvW - 31 - Hans Peter Duerr"
-tags: [""]
+tags: ["Hans", "Peter", "Duerr"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

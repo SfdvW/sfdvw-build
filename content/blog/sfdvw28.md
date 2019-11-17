@@ -4,7 +4,7 @@ publishdate: "2010-09-11+20:00"
 lastmod: "2010-09-11+20:00"
 draft: false
 title: "SfdvW - 28 - Radio Chaotica auf Querfunk Gulaschprogrammiernacht8"
-tags: [""]
+tags: ["Radio", "Chaotica", "Querfunk", "Gulaschprogrammiernacht"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

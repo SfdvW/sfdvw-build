@@ -4,7 +4,7 @@ publishdate: "2012-09-08+20:00"
 lastmod: "2012-09-08+20:00"
 draft: false
 title: "SfdvW - 45 - Keygen Musik"
-tags: [""]
+tags: ["Keygen", "Musik"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

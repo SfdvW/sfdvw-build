@@ -4,13 +4,14 @@ publishdate: "2019-11-16+20:00"
 lastmod: "2019-11-16+20:00"
 draft: false
 title: "SfdvW - 86 - Ubuntu-Linuxeinstieg"
-tags: ["Ubuntu", "Linuxeinstieg", ""]
+tags: ["Ubuntu", "Linuxeinstieg", "Linux"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""
 toc: true
 summary: "Sendung Nummer 86 Ubuntu-Linuxeinstieg"
 link: ""
+chapters: "<psc:chapter start=\"00:00:00\" title=\"Intro\" />"
 ---
 
 <div align="center" id="example"></div>
@@ -23,7 +24,7 @@ link: ""
 Feedback zur Sendung?
 [Schreibe uns ein Kommentar](mailto:SfdvW@radiocorax.de)
 
-### SfdvW - 86 - Ubuntu-Linuxeinstieg
+## SfdvW - 86 - Ubuntu-Linuxeinstieg
 Sendungstermin 16.11.2019 20-21Uhr
 mit dabei: tmk, nilo, Wolfgang, markus, jotilux, mantu
 

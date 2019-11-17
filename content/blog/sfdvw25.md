@@ -4,7 +4,7 @@ publishdate: "2010-06-19+20:00"
 lastmod: "2010-06-19+20:00"
 draft: false
 title: "SfdvW - 25 - Freifunk Stand der Dinge WCW2010 WBOTM3 FOSSASIA GSOC"
-tags: [""]
+tags: ["Freifunk", "WCW2010", "WBOTM3", "FOSSASIA", "GSOC"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

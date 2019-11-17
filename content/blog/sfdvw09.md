@@ -4,7 +4,7 @@ publishdate: "2008-10-29+20:00"
 lastmod: "2008-10-29+20:00"
 draft: false
 title: "SfdvW - 09 - Krude Websites"
-tags: [""]
+tags: ["krude", "Websites"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

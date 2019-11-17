@@ -4,7 +4,7 @@ publishdate: "2015-01-24+20:00"
 lastmod: "2015-01-24+20:00"
 draft: false
 title: "SfdvW - 57 - CRE203 Freifunk statt Angst"
-tags: [""]
+tags: ["Freifunk", "Angst", "CRE203"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

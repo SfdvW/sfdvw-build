@@ -4,7 +4,7 @@ publishdate: "2009-10-10+20:00"
 lastmod: "2009-10-10+20:00"
 draft: false
 title: "SfdvW - 18-2 - Altes Heizwerk Community Media Center in Halle"
-tags: [""]
+tags: ["Altes_Heizwerk", "Media_Center"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

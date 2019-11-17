@@ -4,7 +4,7 @@ publishdate: "2011-01-01+20:00"
 lastmod: "2011-01-01+20:00"
 draft: false
 title: "SfdvW - 29 - Knowledge Box"
-tags: [""]
+tags: ["Knowledge_Box"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

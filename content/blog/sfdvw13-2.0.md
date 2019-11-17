@@ -4,7 +4,7 @@ publishdate: "2009-03-25+20:00"
 lastmod: "2009-03-25+20:00"
 draft: false
 title: "SfdvW - 13-2.0 - Hacken Freiheit Anarchie eine Suche nach Schnittstellen"
-tags: [""]
+tags: ["Hacken", "Freiheit", Schnittstellen]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

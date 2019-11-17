@@ -4,7 +4,7 @@ publishdate: "2014-04-19+20:00"
 lastmod: "2014-04-19+20:00"
 draft: false
 title: "SfdvW - 52 - Alpha Forum mit Constanze Kurz"
-tags: [""]
+tags: ["Alpha", "Forum", "Constanze", "Kurz"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

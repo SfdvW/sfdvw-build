@@ -4,7 +4,7 @@ publishdate: "2012-10-06+20:00"
 lastmod: "2012-10-06+20:00"
 draft: false
 title: "SfdvW - 46 - Radio Wauland WDR"
-tags: [""]
+tags: ["Radio", "Wauland"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

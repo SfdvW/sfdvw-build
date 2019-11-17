@@ -4,7 +4,7 @@ publishdate: "2012-03-24+20:00"
 lastmod: "2012-03-24+20:00"
 draft: false
 title: "SfdvW - 42 - Gametrack Machinarium"
-tags: [""]
+tags: ["Gametrack", "Machinarium"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

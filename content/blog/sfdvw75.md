@@ -4,7 +4,7 @@ publishdate: "2018-01-20+20:00"
 lastmod: "2018-01-20+20:00"
 draft: false
 title: "SfdvW - 75 - Mit Code die Welt verbessern"
-tags: [""]
+tags: ["jugend_hackt", "Mit_Code_die _Welt_verbessern", "EBK"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

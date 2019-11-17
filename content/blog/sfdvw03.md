@@ -4,7 +4,7 @@ publishdate: "2008-03-05+20:00"
 lastmod: "2008-03-05+20:00"
 draft: false
 title: "SfdvW - 03 - Richard Stallman ueber GNU"
-tags: [""]
+tags: ["GNU"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

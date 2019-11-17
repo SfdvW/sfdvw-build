@@ -4,7 +4,7 @@ publishdate: "2014-06-14+20:00"
 lastmod: "2014-06-14+20:00"
 draft: false
 title: "SfdvW - 54 - Technikfolgenabschätzung"
-tags: [""]
+tags: ["Technikfolgeabschätzung"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

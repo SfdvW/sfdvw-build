@@ -4,7 +4,7 @@ publishdate: "2010-03-27+20:00"
 lastmod: "2010-03-27+20:00"
 draft: false
 title: "SfdvW - 23 - Großvater Gerhard"
-tags: [""]
+tags: ["Großvater", "Gerhard"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

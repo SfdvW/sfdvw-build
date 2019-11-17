@@ -4,7 +4,7 @@ publishdate: "2017-12-16+20:00"
 lastmod: "2017-12-16+20:00"
 draft: false
 title: "SfdvW - 74 - Einführung in die Blockchain"
-tags: [""]
+tags: ["Blockchain"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

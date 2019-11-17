@@ -4,7 +4,7 @@ publishdate: "2010-04-24+20:00"
 lastmod: "2010-04-24+20:00"
 draft: false
 title: "SfdvW - 24 - Zusammenfassung ohne Inhalt mit YHT"
-tags: [""]
+tags: ["Inhalt", "YHT"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

@@ -4,7 +4,7 @@ publishdate: "2018-02-17+20:00"
 lastmod: "2018-02-17+20:00"
 draft: false
 title: "SfdvW - 76 - Klinke Live TODO"
-tags: [""]
+tags: ["Klinke"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

@@ -4,7 +4,7 @@ publishdate: "2010-07-17+20:00"
 lastmod: "2010-07-17+20:00"
 draft: false
 title: "SfdvW - 26 - Rechnerfiepen"
-tags: [""]
+tags: ["Rechnerfiepen"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

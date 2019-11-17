@@ -4,7 +4,7 @@ publishdate: "2011-09-10+20:00"
 lastmod: "2011-09-10+20:00"
 draft: false
 title: "SfdvW - 35 - GPN11 1378km inkl Jingle am Anfang"
-tags: [""]
+tags: ["GPN", "1378km", "Gulaschprogrammiernacht"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

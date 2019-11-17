@@ -16,12 +16,12 @@
   "subtitle": "",
   "summary": "In der Ausgeabe 66 gibt es folgendes Thema: Amateurfunk",
   "publicationDate": "2016-11-19T20:00:00+02:00",
-  "poster": "https://sfdvw.de/img/profile.png",
+  "poster": "https://sfdvw.de/img/profile.jpg",
   "duration": "01:00:00.000",
   "link": "https://sfdvw.de/blog/2016-11/sfdvw-66-Amateurfunk/",
   "audio": [
     {
-      "url": "https://tmkrth.jumpingcrab.com:28828/.sfdvw/Sendung_fuer_die_vernetzte_Welt_(66)_2016_11_19_Amateurfunk.flac",
+      "url": "",
       "size": "",
       "title": "flac",
       "mimeType": "audio/flac"

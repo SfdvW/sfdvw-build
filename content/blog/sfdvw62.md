@@ -4,7 +4,7 @@ publishdate: "2016-05-21+20:00"
 lastmod: "2016-05-21+20:00"
 draft: false
 title: "SfdvW - 62 - Wireless Community Weekend 2016 FFHarz TVWhitespace"
-tags: [""]
+tags: ["Wireless", "Community", "Weekend", "FFHart", "TVWhitespaces"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

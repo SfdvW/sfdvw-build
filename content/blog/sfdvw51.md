@@ -4,7 +4,7 @@ publishdate: "2013-07-13+20:00"
 lastmod: "2013-07-13+20:00"
 draft: false
 title: "SfdvW - 51 - Guru Meditation"
-tags: [""]
+tags: ["Guru", "Meditation"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

@@ -4,7 +4,7 @@ publishdate: "2011-11-05+20:00"
 lastmod: "2011-11-05+20:00"
 draft: false
 title: "SfdvW - 37 - Buchla 700"
-tags: [""]
+tags: ["Buchla"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

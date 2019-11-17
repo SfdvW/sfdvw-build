@@ -4,7 +4,7 @@ publishdate: "2009-02-25+20:00"
 lastmod: "2009-02-25+20:00"
 draft: false
 title: "SfdvW - 12 - Gamboy Musik"
-tags: [""]
+tags: ["Gameboy", "Musik"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

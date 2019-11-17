@@ -4,7 +4,7 @@ publishdate: "2016-12-17+20:00"
 lastmod: "2016-12-17+20:00"
 draft: false
 title: "SfdvW - 67 - Industrieästhetik"
-tags: [""]
+tags: ["Industrieästhetik"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

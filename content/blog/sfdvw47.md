@@ -4,7 +4,7 @@ publishdate: "2012-12-29+20:00"
 lastmod: "2012-12-29+20:00"
 draft: false
 title: "SfdvW - 47 - 29C3 Jacob Applebaum"
-tags: [""]
+tags: ["29C3", "Jacob", "Applebaum"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

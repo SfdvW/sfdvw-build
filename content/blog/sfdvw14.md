@@ -4,7 +4,7 @@ publishdate: "2009-04-29+20:00"
 lastmod: "2009-04-29+20:00"
 draft: false
 title: "SfdvW - 14 - Internet in Afrika Teil 1 OLPC"
-tags: [""]
+tags: ["Internet", "OLPC"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

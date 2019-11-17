@@ -4,7 +4,7 @@ publishdate: "2013-01-26+20:00"
 lastmod: "2013-01-26+20:00"
 draft: false
 title: "SfdvW - 48 - Tmks Lieblingsmusik"
-tags: [""]
+tags: ["Tmk", "Lieblingsmusik"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

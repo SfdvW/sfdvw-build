@@ -4,7 +4,7 @@ publishdate: "2015-10-31+20:00"
 lastmod: "2015-10-31+20:00"
 draft: false
 title: "SfdvW - 60 - Pommes Weltreisen Teil 1"
-tags: [""]
+tags: ["Pommes", "Weltreisen"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

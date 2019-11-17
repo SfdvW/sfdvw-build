@@ -4,7 +4,7 @@ publishdate: "2017-03-18+20:00"
 lastmod: "2017-03-18+20:00"
 draft: false
 title: "SfdvW - 70 - Frank Rieger im NSA-Untersuchungsausschuss"
-tags: [""]
+tags: ["Frank", "Rieger", "NSA", "Untersuchungsausschuss"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

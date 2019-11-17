@@ -4,7 +4,7 @@ publishdate: "2011-06-18+20:00"
 lastmod: "2011-06-18+20:00"
 draft: false
 title: "SfdvW - 32 - c't online talk auf DRadioWissen Hacktivismus"
-tags: [""]
+tags: ["Hacktivismus"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

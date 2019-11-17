@@ -4,7 +4,7 @@ publishdate: "2009-01-28+20:00"
 lastmod: "2009-01-28+20:00"
 draft: false
 title: "SfdvW - 11 - IP Adressen"
-tags: [""]
+tags: ["IP-Adressen"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

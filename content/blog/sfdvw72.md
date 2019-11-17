@@ -4,7 +4,7 @@ publishdate: "2017-07-15+20:00"
 lastmod: "2017-07-15+20:00"
 draft: false
 title: "SfdvW - 72 - R.I.P. Gametrack"
-tags: [""]
+tags: ["RIP", "Gametrack"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

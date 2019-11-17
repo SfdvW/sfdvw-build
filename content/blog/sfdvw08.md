@@ -4,7 +4,7 @@ publishdate: "2008-09-24+20:00"
 lastmod: "2008-09-24+20:00"
 draft: false
 title: "SfdvW - 08 - Betriebssysteme"
-tags: [""]
+tags: ["Betriebssysteme"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

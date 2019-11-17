@@ -4,7 +4,7 @@ publishdate: "2008-07-30+20:00"
 lastmod: "2008-07-30+20:00"
 draft: false
 title: "SfdvW - 07 - Terminal 21 im Ferienkommunismus"
-tags: [""]
+tags: ["Terminal.21"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

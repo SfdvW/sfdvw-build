@@ -4,7 +4,7 @@ publishdate: "2011-12-03+20:00"
 lastmod: "2011-12-03+20:00"
 draft: false
 title: "SfdvW - 38 - Korg meets Minecraft feat Jay und Jay"
-tags: [""]
+tags: ["Korg", "Minecraft"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

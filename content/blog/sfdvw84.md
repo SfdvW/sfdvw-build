@@ -10,7 +10,8 @@ categories: ["Sendebeitrag"]
 img: ""
 toc: false
 summary: "Sendung Nummer 84 Win10-Private"
-#link: ""
+link: ""
+chapters: "<psc:chapter start=\"00:00:00\" title=\"Intro\" />"
 ---
 
 <div align="center" id="example"></div>

@@ -4,7 +4,7 @@ publishdate: "2017-04-15+20:00"
 lastmod: "2017-04-15+20:00"
 draft: false
 title: "SfdvW - 71 - EBK Junghacker"
-tags: [""]
+tags: ["EBK", "Junghacker"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

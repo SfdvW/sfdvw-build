@@ -4,7 +4,7 @@ publishdate: "2008-11-26+20:00"
 lastmod: "2008-11-26+20:00"
 draft: false
 title: "SfdvW - 10 - Chaos Communication Congress"
-tags: [""]
+tags: ["Chaos", "Communication", "Congress"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

@@ -4,7 +4,7 @@ publishdate: "2008-04-30+20:00"
 lastmod: "2008-04-30+20:00"
 draft: false
 title: "SfdvW - 05 - principia discordia"
-tags: [""]
+tags: ["principia", "discordia"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

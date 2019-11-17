@@ -4,7 +4,7 @@ publishdate: "2011-08-13+20:00"
 lastmod: "2011-08-13+20:00"
 draft: false
 title: "SfdvW - 34 - DRadioWissen Netzreporter Urheberrecht"
-tags: [""]
+tags: ["Urheberrecht"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

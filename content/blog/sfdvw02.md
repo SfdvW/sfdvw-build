@@ -4,7 +4,7 @@ publishdate: "2008-02-06+20:00"
 lastmod: "2008-02-06+20:00"
 draft: false
 title: "SfdvW - 02 - FF-Info und Chaosradio Getting things done"
-tags: [""]
+tags: ["Chaosradio", "FF-Info"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

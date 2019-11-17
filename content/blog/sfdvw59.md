@@ -4,7 +4,7 @@ publishdate: "2015-09-05+20:00"
 lastmod: "2015-09-05+20:00"
 draft: false
 title: "SfdvW - 59 - Alexander Gerst 6 Monate leben und arbeiten auf der ISS Re Publica 2015"
-tags: [""]
+tags: ["Alexander", "Gerst", "ISS", "Re_Publica"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

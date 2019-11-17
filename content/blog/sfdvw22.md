@@ -4,7 +4,7 @@ publishdate: "2010-02-27+20:00"
 lastmod: "2010-02-27+20:00"
 draft: false
 title: "SfdvW - 22 - Memtest"
-tags: [""]
+tags: ["Memtest"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

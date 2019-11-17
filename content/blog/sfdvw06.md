@@ -4,7 +4,7 @@ publishdate: "2008-05-28+20:00"
 lastmod: "2008-05-28+20:00"
 draft: false
 title: "SfdvW - 06 - Freifunk"
-tags: [""]
+tags: ["Freifunk"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

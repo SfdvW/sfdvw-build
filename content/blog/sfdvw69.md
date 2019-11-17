@@ -4,7 +4,7 @@ publishdate: "2017-02-18+20:00"
 lastmod: "2017-02-18+20:00"
 draft: false
 title: "SfdvW - 69 - Computermuseum Halle"
-tags: [""]
+tags: ["Computermuseum", "Halle"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

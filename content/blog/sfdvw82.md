@@ -10,7 +10,8 @@ categories: ["Sendebeitrag"]
 img: ""
 toc: false
 summary: "Sendung Nummer 82 - tragedy of systemd"
-#link: ""
+link: ""
+chapters: "<psc:chapter start=\"00:00:00\" title=\"Intro\" />"
 ---
 Mit dabei: tmk, marcus, simon, tim
 

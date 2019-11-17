@@ -4,7 +4,7 @@ publishdate: "2009-12-05+20:00"
 lastmod: "2009-12-05+20:00"
 draft: false
 title: "SfdvW - 19 - Soziale Netzwerke im Internet"
-tags: [""]
+tags: ["Soziale", "Netzwerke", "Internet"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

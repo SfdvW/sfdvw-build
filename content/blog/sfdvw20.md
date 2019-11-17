@@ -4,7 +4,7 @@ publishdate: "2010-01-02+20:00"
 lastmod: "2010-01-02+20:00"
 draft: false
 title: "SfdvW - 20 - LAN-Party"
-tags: [""]
+tags: ["LAN", "Party"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

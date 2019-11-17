@@ -4,7 +4,7 @@ publishdate: "2016-01-23+20:00"
 lastmod: "2016-01-23+20:00"
 draft: false
 title: "SfdvW - 61 - Freifunk Halle"
-tags: [""]
+tags: ["Freifunk"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

@@ -4,7 +4,7 @@ publishdate: "2017-10-21+20:00"
 lastmod: "2017-10-21+20:00"
 draft: false
 title: "SfdvW - 73 - Do you know Squarepusher PAULSTRETCH"
-tags: [""]
+tags: ["Squarepusher", "PAULSTRETCH"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

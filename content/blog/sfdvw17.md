@@ -4,7 +4,7 @@ publishdate: "2009-08-15+20:00"
 lastmod: "2009-08-15+20:00"
 draft: false
 title: "SfdvW - 17 - Sommersendung"
-tags: [""]
+tags: ["Sommersendung"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

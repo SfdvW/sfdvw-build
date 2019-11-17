@@ -4,7 +4,7 @@ publishdate: "2011-07-16+20:00"
 lastmod: "2011-07-16+20:00"
 draft: false
 title: "SfdvW - 33 - c't online talk auf DRadioWissen IPv6"
-tags: [""]
+tags: ["IPv6"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

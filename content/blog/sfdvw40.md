@@ -4,7 +4,7 @@ publishdate: "2012-01-28+20:00"
 lastmod: "2012-01-28+20:00"
 draft: false
 title: "SfdvW - 40 - Cx Jingles mit Jay b"
-tags: [""]
+tags: ["Jingles", "Corax"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

@@ -4,7 +4,7 @@ publishdate: "2012-04-21+20:00"
 lastmod: "2012-04-21+20:00"
 draft: false
 title: "SfdvW - 43 - Vögel"
-tags: [""]
+tags: ["Vögle"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""

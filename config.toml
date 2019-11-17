@@ -43,13 +43,13 @@ pygmentsuseclasses         = true
 
 [params]
   faviconfile              = "img/globe.jpg"               # from static/
-  avatar                   = "img/profile.png"             # path to image in static dir e.g img/avatar.png 
+  avatar                   = "img/profile.jpg"             # path to image in static dir e.g img/avatar.png 
   author                   = "Sendung für die vernetzte Welt"
   description              = ["Radio Corax Freies Radio im Raum Halle", "Immer am dritten Samstag des Monats", "20.00 Uhr live"]           # appears in the site header when set to a non-empty string
   welcome_head             = "Hello, World!  \\o/"
   welcome_word             = "Technik ~ Gesellschaft ~ Internet ~ neue Medien"
 
-  latestpostscount         = 5                             # how many posts to display on the home page
+  latestpostscount         = 10                             # how many posts to display on the home page
   bloggroupby              = 'month'
   dateform                 = "Jan 2, 2006"
   dateformfull             = "2006-01-02  Monday  15:04:05"
