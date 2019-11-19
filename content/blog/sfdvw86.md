@@ -10,8 +10,8 @@ categories: ["Sendebeitrag"]
 img: ""
 toc: true
 summary: "Sendung Nummer 86 Ubuntu-Linuxeinstieg"
-link: ""
-chapters: "<chapter start=\"00:00:00\" title=\"Intro\" />"
+link: "https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(86)_2019_11_16_Linuxeinstieg_mit_Ubuntu.mp3"
+chapters: "<chapter start=\"00:00:00\" title=\"Intro\"/>"
 ---
 
 <div align="center" id="example"></div>

@@ -27,12 +27,10 @@
       <guid>{{ .Permalink }}</guid>
       <description>{{ .Content | html }}</description>
       <enclosure url="{{ .Params.link }}" type="audio/mpeg" length="1" />
-      
       <!-- specify chapter information -->
       <chapters>
                       {{ .Params.chapters }}
       </chapters>
-      
     </item>
     {{ end }}
 </channel>
