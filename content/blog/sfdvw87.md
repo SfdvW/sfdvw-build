@@ -11,14 +11,13 @@ img: ""
 toc: true
 summary: "Sendung Nummer 87 Backups"
 link: "https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(87)_2019_12_21_Backups.mp3"
+audio: "https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(87)_2019_12_21_Backups.mp3"
 ---
 
 <div align="center" id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
 
-<script>
-  podlovePlayer('#example', '/blog/sfdvw87.json');
-</script>
+
 
 Feedback zur Sendung?
 [Schreibe uns ein Kommentar](mailto:SfdvW@radiocorax.de)
@@ -119,3 +118,7 @@ möglichst ortsgetrennt(Disaster Recovery)
 - 28.12.2019 Congress Junghacker-Tag
 - 16.05.2020Llinux Präsentation Day
 - 31.03.2020 [World Backup Day](http://www.worldbackupday.com/de/)
+
+<script>
+  podlovePlayer('#example', '/blog/sfdvw87.json');
+</script>
