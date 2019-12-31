@@ -46,7 +46,7 @@ pygmentsuseclasses         = true
   avatar                   = "img/profile.png"             # path to image in static dir e.g img/avatar.png 
   author                   = "Sendung für die vernetzte Welt"
   description              = ["Radio Corax Freies Radio im Raum Halle", "Immer am dritten Samstag des Monats", "20.00 Uhr live"]           # appears in the site header when set to a non-empty string
-  images                   = ["img/profile.png"]
+  images                   = ["img/twitterprofile.png"]
   welcome_head             = "Hello, World!  \\o/"
   welcome_word             = "Technik ~ Gesellschaft ~ Internet ~ neue Medien"
 

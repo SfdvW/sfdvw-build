@@ -13,11 +13,10 @@ summary: "Sendung Nummer 82 - tragedy of systemd"
 link: ""
 chapters: "<chapter start=\"00:00:00\" title=\"Intro\" />"
 ---
-Mit dabei: tmk, marcus, simon, tim
-
-
 <div align="center" id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
+Mit dabei: tmk, marcus, simon, tim
 
 <script>
   podlovePlayer('#example', '/blog/sfdvw82.json');

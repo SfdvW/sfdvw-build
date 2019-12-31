@@ -17,9 +17,7 @@ chapters: "<chapter start=\"00:00:00\" title=\"Intro\"/>"
 <div align="center" id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
 
-<script>
-  podlovePlayer('#example', '/blog/sfdvw86.json');
-</script>
+
 
 Feedback zur Sendung?
 [Schreibe uns ein Kommentar](mailto:SfdvW@radiocorax.de)
@@ -100,3 +98,7 @@ mit dabei: tmk, nilo, Wolfgang, markus, jotilux, mantu
 
 - dezentrale Leipzig 20.11.2019 mit Support aus Berline (SSDeV | Sportsfreunde der Sperrtechnik - Deutschland e.V.) 
     - [Schlösser öffnen mit Support aus Berlin](https://dezentrale.space/events/tag-der-offenen-t%C3%BCr/)
+
+<script>
+  podlovePlayer('#example', '/blog/sfdvw86.json');
+</script>

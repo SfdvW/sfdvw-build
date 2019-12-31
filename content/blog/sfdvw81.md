@@ -17,11 +17,12 @@ chapters: "<chapter start=\"00:00:00\" title=\"35C3\" /><psc:chapter start=\"00:
 <div align="center" id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
 
-<script>
-  podlovePlayer('#example', '/blog/sfdvw81.json');
-</script>
 
 Feedback zur Sendung?
 [Schreibe uns ein Kommentar](mailto:SfdvW@radiocorax.de)
 
 Mit dabei: tmk
+
+<script>
+  podlovePlayer('#example', '/blog/sfdvw81.json');
+</script>

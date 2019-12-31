@@ -17,9 +17,7 @@ chapters: "<chapter start=\"00:00:00\" title=\"Intro\" />"
 <div align="center" id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
 
-<script>
-  podlovePlayer('#example', '/blog/sfdvw85.json');
-</script>
+
 
 Feedback zur Sendung?
 [Schreibe uns ein Kommentar](mailto:SfdvW@radiocorax.de)
@@ -130,3 +128,6 @@ mit dabei: tmk, nilo, Wolfgang, markus
     * [36C3: Resource Exhaustion.](https://www.ccc.de/en/updates/2019/36c3-in-leipzig)
 * [jungend hackt Halle 8.-10. November 2019](https://jugendhackt.org/events/halle/)
 
+<script>
+  podlovePlayer('#example', '/blog/sfdvw85.json');
+</script>
