@@ -7,7 +7,7 @@ layoutdir                  = "layouts"
 publishdir                 = "sfdvw.github.io"
 enableEmoji                = true
 hasCJKLanguage             = false
-summaryLength              = 200
+summaryLength              = 150
 Paginate                   = 3
 
 theme                      = "AllinOne"
@@ -68,5 +68,6 @@ pygmentsuseclasses         = true
 
   # links
   email                    = "SfdvW@radiocorax.de"
-  github                   = "//github.com/sfdvw"
+  github                   = "https://github.com/sfdvw"
+  twitter                  = "https://twitter.com/sfdvwelt"
   include_rss              = true                          # include RSS <link> tag in <head> and show RSS icon

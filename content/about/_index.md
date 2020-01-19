@@ -7,35 +7,29 @@ draft: false
 <br>
 Immer am dritten Samstag des Monats, 20.00 Uhr, befasst sich die Sendung für die vernetzte Welt mit den Themenfeldern Technik und Gesellschaft, Internet und neue Medien. Die rechnerphile Redaktion versucht euch mitzunehmen auf eine Reise in die Welt der Daten und Netzwerke, der Onlinecommunities und Netz- und Softwarekunst. 
 <br><br>
-Radio Corax Freies Radio im Raum Halle ist zu höhren auf UKW 95.9 oder im Webplayer unter:
-<br>
-[popupplayer](https://radiocorax.de/wp-content/themes/Radiocorax/popup-player/popupplayer.php)
+Radio Corax Freies Radio im Raum Halle ist zu höhren auf UKW 95.9 oder im [Webplayer](https://radiocorax.de/wp-content/themes/Radiocorax/popup-player/popupplayer.php).
 <br><br>
-Ihr könnt live mitmachen: Sendediensttelefon (Halle/4700744). Schreibt eure Fragen und Kritiken über eMail an SfdvW aat radiocorax ddot de.
+Ihr könnt live mitmachen: Sendediensttelefon (Halle/4700744) oder schreibt eure Fragen und Kritiken über eMail an SfdvW aat radiocorax ddot de.
 <br><br>
 Funk frei!
-
 
 ### Impressum
 Angaben gemäß § 5 TMG und Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
-**Sendung für die vernetzte Welt** ist ein Projekt von:
-
 Eigenbaukombinat Halle e.V.
 Landsberger Straße 3
 06112 Halle
-
 Vertreten durch den aktuellen [Vorstand des Eigenbaukombinats](https://eigenbaukombinat.de/impressum).
 vorstand@eigenbaukombinat.de
-
 [aktuelle Satzung](https://eigenbaukombinat.de/wp-content/uploads/2018/04/satzung-2018-03.pdf) (Stand: März 2018)
-
 Vereinsregister: Amtsgericht Stendal, VR 3085
 
+**Sendung für die vernetzte Welt** ist ein Projekt/Sendebeitrag für [Corax e. V. – Initiative für Freies Radio](https://radiocorax.de) unterstützt durch Mitglieder des [Eigenbaukombinat Halle e.V.](https://eigenbaukombinat.de/) und technikbegeisterten Menschen.
+
+
 #### Kontakt:
-Telefon: Halle/4700744
-Fax: nicht vorhanden
 E-Mail: SfdvW [aat] radiocorax [ddot] de
+Telefon: Halle/4700744
 
 #### Haftungsausschluss:
 
@@ -74,6 +68,8 @@ Beiträge auf dieser Website können eingebettete Inhalte beinhalten (z. B. Audi
 
 Diese Websites können Daten über dich sammeln, Cookies benutzen, zusätzliche Tracking-Dienste von Dritten einbetten und deine Interaktion mit diesem eingebetteten Inhalt aufzeichnen, inklusive deiner Interaktion mit dem eingebetteten Inhalt, falls du ein Konto hast und auf dieser Website angemeldet bist.
 
+Derzeit binden wir Audiodateien über den [Podlove Web Player](https://podlove.org/podlove-web-player/) über http://cdn.podlove.org/web-player/ in der aktuellsten Version ein.
+
 #### Analysedienste
 Mit wem wir deine Daten teilen:
 
@@ -81,3 +77,25 @@ Mit wem wir deine Daten teilen:
 
 ### Kontakt-Informationen
 SfdvW [aat] radiocorax [ddot] de
+
+### Bilderquellen
+
+#### Slidshow
+
+Bilderbezug erfolgt über die [Simplified Pixabay License](https://pixabay.com/service/license/)
+
+https://pixabay.com/illustrations/universe-sky-star-space-cosmos-2742113/
+
+https://pixabay.com/illustrations/galaxy-space-universe-astronautics-2643089/
+
+https://pixabay.com/photos/nature-sky-night-stars-2609647/
+
+https://pixabay.com/photos/starry-sky-the-milky-way-space-4448583/
+
+#### cats in space
+
+Untere Katze ist ein im Internet weiter verbreitetes Meme und ist teilweise mit beliebigen Hintergründen zu finden. Eine Urheberrechtliche geschützte Quelle ist uns hierzu nicht bekannt.
+
+**ACHTUNG - Katzenbilder im Internet zu suchen kann Ihr Leben maßgeblich verändern! Wir empfehlen dringend VOR dem öffnen der Suche ein Audiopodcast zu starten um ein Zeitgefühl zu ermöglichen**
+
+Eine Bildersuche nach "Omg Cats in Space" oder "crazy cat in space" oder "crazy cat meme" ist ein guter Start für Ihren Ausflug.
