@@ -1,0 +1,122 @@
+{
+  "show": {
+    "title": "Sendung für die vernetze Welt",
+    "subtitle": "Technik ~ Gesellschaft ~ Internet ~ neue Medien",
+    "summary": "Immer am dritten Samstag des Monats, 20.00 Uhr, befasst sich die Sendung für die vernetzte Welt mit den Themenfeldern Technik und Gesellschaft, Internet und neue Medien. Die rechnerphile Redaktion versucht euch mitzunehmen auf eine Reise in die Welt der Daten und Netzwerke, der Onlinecommunities und Netz- und Softwarekunst. Radio Corax Freies Radio im Raum Halle ist zu höhren auf UKW 95.9 oder im Webplayer unter: https://radiocorax.de/wp-content/themes/Radiocorax/popup-player/popupplayer.php Ihr könnt live mitmachen 2.0: Über Jabber (tmkrth aat jabber ddot radiocorax ddot de) oder das Sendediensttelefon (Halle/4700744). Schreibt eure Fragen und Kritiken über eMail an SfdvW aat radiocorax ddot de. Funk frei!",
+    "poster": "https://sfdvw.de/img/profile.png",
+    "link": "https://sfdvw.de"
+  },
+  "reference": {
+    "config": "https://sfdvw.de"
+  },
+  "theme": {
+    "main": "#003333"
+  },
+  "title": "SfdvW - 89 - Congress Review 2 36C3",
+  "subtitle": "",
+  "summary": "In der Ausgeabe 89 gibt es folgendes Thema: Congress Review 2 36C3",
+  "publicationDate": "2020-02-15T20:00:00+02:00",
+  "poster": "/img/blog/sfdvw89.jpg",
+  "duration": "01:00:00.000",
+  "link": "https://sfdvw.de/blog/2020-02/sfdvw-89-Congress-Review-2-36C3/",
+  "audio": [
+    {
+      "url": "/audio/Sendung_fuer_die_vernetzte_Welt_(89)_2020_02_15_Congress_Review_2_36C3.mp3",
+      "size": "",
+      "title": "flac",
+      "mimeType": "audio/flac"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00:00.000",
+      "title": "Intro",
+      "href": "",
+      "image": "/img/blog/sfdvw89.jpg"
+    }
+  ],
+  "runtime": {
+    "locale": "de-De",
+    "language": "de"
+  },
+  "visibleComponents": [
+    "tabInfo",
+    "tabChapters",
+    "tabDownload",
+    "tabAudio",
+    "tabShare",
+    "poster",
+    "showTitle",
+    "episodeTitle",
+    "subtitle",
+    "progressbar",
+    "controlSteppers",
+    "controlChapters"
+  ],
+  "contributors": [
+   {
+      "name": "Tmk",
+      "avatar": "https://avatars2.githubusercontent.com/u/1104628?s=460&v=4",
+      "role": {
+        "id": "9",
+        "slug": "team",
+        "title": "Team"
+      },
+      "group": {
+        "id": "1",
+        "slug": "onair",
+        "title": "On Air"
+      },
+      "comment": null,
+      "id": "tmk"
+    },
+   {
+      "name": "nilo",
+      "avatar": "https://avatars2.githubusercontent.com/u/1135405?s=460&v=4",
+      "role": {
+        "id": "9",
+        "slug": "team",
+        "title": "Team"
+      },
+      "group": {
+        "id": "1",
+        "slug": "onair",
+        "title": "On Air"
+      },
+      "comment": null,
+      "id": "nilo"
+    },
+    {
+      "name": "markus",
+      "avatar": "https://avatars1.githubusercontent.com/u/6626239?s=460&v=4",
+      "role": {
+        "id": "9",
+        "slug": "team",
+        "title": "Team"
+      },
+      "group": {
+        "id": "1",
+        "slug": "onair",
+        "title": "On Air"
+      },
+      "comment": null,
+      "id": "markus"
+    },
+    {
+      "name": "jotilux",
+      "avatar": "https://avatars0.githubusercontent.com/u/31257683?s=460&v=4",
+      "role": {
+        "id": "9",
+        "slug": "team",
+        "title": "Team"
+      },
+      "group": {
+        "id": "1",
+        "slug": "onair",
+        "title": "On Air"
+      },
+      "comment": null,
+      "id": "jotilux"
+    }    
+  ]
+}
