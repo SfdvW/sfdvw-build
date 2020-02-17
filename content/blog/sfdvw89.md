@@ -72,7 +72,7 @@ zweites Review zum Chaos Comunication Congress Nummer 36
 ### kommende Veranstaltungen
 * 14-16.08.2020 SommerZonenHack im Eigenbaukombinat
 	* [Anmeldung](https://tickets.eigenbaukombinat.de/ebk/szh2020/)
-	* [ßh.de](http://ßh.de) punycode aware oder [xn--h-pfa.de](xn--h-pfa.de)
+	* [https://ßh.de](https://ßh.de) punycode aware oder [https://xn--h-pfa.de](https://xn--h-pfa.de)
 * 03-05.07.2020 [Jugendhackt Halle](https://jugendhackt.org/event-rueckblick/halle-2019/) im Eingenebaukombinat
 * [Makerspace Leipzig](https://makerspace-leipzig.de/) sucht eine neue Unterkunft 
 
