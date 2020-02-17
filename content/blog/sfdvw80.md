@@ -10,17 +10,13 @@ categories: ["Sendebeitrag"]
 img: ""
 toc: false
 summary: "Sendung Nummer 80 - CRE 161 CCC Geschichte"
-link: "https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(80)_2018_12_15_CRE_161_CCC_Geschichte.mp3"
-audio: "https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(80)_2018_12_15_CRE_161_CCC_Geschichte.mp3"
 ---
+
+
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
 
-Feedback zur Sendung?
-[Schreibe uns ein Kommentar](mailto:SfdvW@radiocorax.de)
-
-## SfdvW - 80 - CRE 161 CCC Geschichte
 Mit dabei: tmk
 
 <script>

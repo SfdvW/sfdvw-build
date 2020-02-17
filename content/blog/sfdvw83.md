@@ -10,18 +10,15 @@ categories: ["Sendebeitrag"]
 img: ""
 toc: false
 summary: "Sendung Nummer 83 - Jugend hackt, junghacker, EBK TdoT"
-link: "https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(83)_2019_08_17_Jugend_hackt,_Junghacker,_EBK_TdoT.mp3"
-audio: "https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(83)_2019_08_17_Jugend_hackt,_Junghacker,_EBK_TdoT.mp3"
+link: ""
 chapters: "<chapter start=\"00:00:00\" title=\"Intro\" />"
 ---
 <div align="center" id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
 
-Feedback zur Sendung?
-[Schreibe uns ein Kommentar](mailto:SfdvW@radiocorax.de)
 
-## SfdvW - 83 - Jugend hackt, junghacker, EBK TdoT
-mit dabei: tmk, nilo
+
+Mit dabei: tmk, nilo
 
 
 <script>

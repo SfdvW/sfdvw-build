@@ -54,7 +54,7 @@
     "controlChapters"
   ],
   "contributors": [
-   {
+    {
       "name": "Tmk",
       "avatar": "https://avatars2.githubusercontent.com/u/1104628?s=460&v=4",
       "role": {
@@ -69,54 +69,6 @@
       },
       "comment": null,
       "id": "tmk"
-    },
-   {
-      "name": "nilo",
-      "avatar": "https://avatars2.githubusercontent.com/u/1135405?s=460&v=4",
-      "role": {
-        "id": "9",
-        "slug": "team",
-        "title": "Team"
-      },
-      "group": {
-        "id": "1",
-        "slug": "onair",
-        "title": "On Air"
-      },
-      "comment": null,
-      "id": "nilo"
-    },
-    {
-      "name": "markus",
-      "avatar": "https://avatars1.githubusercontent.com/u/6626239?s=460&v=4",
-      "role": {
-        "id": "9",
-        "slug": "team",
-        "title": "Team"
-      },
-      "group": {
-        "id": "1",
-        "slug": "onair",
-        "title": "On Air"
-      },
-      "comment": null,
-      "id": "markus"
-    },
-    {
-      "name": "jotilux",
-      "avatar": "https://avatars0.githubusercontent.com/u/31257683?s=460&v=4",
-      "role": {
-        "id": "9",
-        "slug": "team",
-        "title": "Team"
-      },
-      "group": {
-        "id": "1",
-        "slug": "onair",
-        "title": "On Air"
-      },
-      "comment": null,
-      "id": "jotilux"
-    }    
+    }
   ]
 }
