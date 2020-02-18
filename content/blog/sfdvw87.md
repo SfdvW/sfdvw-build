@@ -10,8 +10,8 @@ categories: ["Sendebeitrag"]
 img: ""
 toc: true
 summary: "Sendung Nummer 87 Backups"
-link: "https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(87)_2019_12_21_Backups.mp3"
-audio: "https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(87)_2019_12_21_Backups.mp3"
+link: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(87)_2019_12_21_Backups.mp3"
+audio: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(87)_2019_12_21_Backups.mp3"
 ---
 
 <div align="center" id="example"></div>

@@ -10,8 +10,8 @@ categories: ["Sendebeitrag"]
 img: ""
 toc: true
 summary: "Sendung Nummer 88 Congress Review 36C3"
-link: "https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(88)_2020_01_18_Congress_Review_36C3.mp3"
-audio: "https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(88)_2020_01_18_Congress_Review_36C3.mp3"
+link: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(88)_2020_01_18_Congress_Review_36C3.mp3"
+audio: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(88)_2020_01_18_Congress_Review_36C3.mp3"
 ---
 
 <div align="center" id="example"></div>

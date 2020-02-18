@@ -10,7 +10,8 @@ categories: ["Sendebeitrag"]
 img: ""
 toc: false
 summary: "Sendung Nummer 84 Win10-Private"
-link: ""
+link: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(84)_2019_09_21_Windows_10_Privatsphäre.mp3"
+audio: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(84)_2019_09_21_Windows_10_Privatsphäre.mp3"
 chapters: "<chapter start=\"00:00:00\" title=\"Intro\" />"
 ---
 

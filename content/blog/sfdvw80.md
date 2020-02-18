@@ -10,6 +10,8 @@ categories: ["Sendebeitrag"]
 img: ""
 toc: false
 summary: "Sendung Nummer 80 - CRE 161 CCC Geschichte"
+link: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(80)_2018_12_15_CRE_161_CCC_Geschichte.mp3"
+audio: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(80)_2018_12_15_CRE_161_CCC_Geschichte.mp3"
 ---
 
 

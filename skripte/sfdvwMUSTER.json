@@ -21,10 +21,10 @@
   "link": "https://sfdvw.de/blog/#jahr-#monat/sfdvw-#nr-#long/",
   "audio": [
     {
-      "url": "/audio/#link",
+      "url": "https://cdn.sfdvw.de/audio/#link",
       "size": "",
-      "title": "flac",
-      "mimeType": "audio/flac"
+      "title": "mp3",
+      "mimeType": "audio/mp3"
     }
   ],
   "chapters": [
@@ -32,7 +32,7 @@
       "start": "00:00:00.000",
       "title": "Intro",
       "href": "",
-      "image": "https://picsum.photos/400/400/?random&image=1"
+      "image": "/img/blog/sfdvw#nr.jpg"
     }
   ],
   "runtime": {
