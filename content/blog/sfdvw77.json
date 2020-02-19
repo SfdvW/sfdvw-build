@@ -16,12 +16,12 @@
   "subtitle": "",
   "summary": "In der Ausgeabe 77 gibt es folgendes Thema: Radio Garden von Bernd und Lars",
   "publicationDate": "2018-03-17T20:00:00+02:00",
-  "poster": "https://sfdvw.de/img/profile.jpg",
+  "poster": "https://sfdvw.de/img/blog/sfdvw77.jpg",
   "duration": "01:00:00.000",
   "link": "https://sfdvw.de/blog/2018-03/sfdvw-77-Radio-Garden-von-Bernd-und-Lars/",
   "audio": [
     {
-      "url": "",
+      "url": "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(77)_2018_03_17_Radio_Garden_von_Bernd_und_Lars.mp3",
       "size": "",
       "title": "flac",
       "mimeType": "audio/flac"
@@ -32,7 +32,7 @@
       "start": "00:00:00.000",
       "title": "Intro",
       "href": "",
-      "image": "https://picsum.photos/400/400/?random&image=1"
+      "image": "https://sfdvw.de/img/blog/sfdvw77.jpg"
     }
   ],
   "runtime": {

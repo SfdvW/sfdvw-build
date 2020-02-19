@@ -10,12 +10,17 @@ categories: ["Sendebeitrag"]
 img: ""
 toc: false
 summary: "Sendung Nummer 79 - R.I.P. Gametrack 2"
----
-Mit dabei: tmk
+link: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(79)_2018_07_21_R.I.P._Gametrack_2.mp3"
+audio: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(79)_2018_07_21_R.I.P._Gametrack_2.mp3"
 
+---
 
 <div id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
+## Sendung Nummer 79 - R.I.P. Gametrack 2
+Mit dabei: tmk
+
 
 <script>
   podlovePlayer('#example', '/blog/sfdvw79.json');
