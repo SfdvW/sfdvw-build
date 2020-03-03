@@ -32,91 +32,91 @@
       "start": "00:00:00.000",
       "title": "Intro",
       "href": "",
-      "image": "https://picsum.photos/400/400/?random&image=1"
+      "image": "/img/blog/sfdvw84.jpg"
     },
     {
       "start": "00:00:24.000",
       "title": "Begrüßung",
       "href": "",
-      "image": "https://picsum.photos/400/400/?random&image=2"
+      "image": "/img/blog/sfdvw84.jpg"
     },
     {
       "start": "00:02:03.000",
       "title": "Musik1",
       "href": "",
-      "image": "https://picsum.photos/400/400/?random&image=3"
+      "image": "/img/blog/sfdvw84.jpg"
     },
     {
       "start": "00:04:50.000",
       "title": "Windows Offline-Konto oder lokales Konto",
       "href": "",
-      "image": "https://picsum.photos/400/400/?random&image=4"
+      "image": "/img/blog/sfdvw84.jpg"
     },
     {
       "start": "00:10:55.500",
       "title": "Musik2",
       "href": "",
-      "image": "https://picsum.photos/400/400/?random&image=5"
+      "image": "/img/blog/sfdvw84.jpg"
     },
     {
       "start": "00:12:27.000",
       "title": "Bloat-Apps, One-Note, Office",
       "href": "",
-      "image": "https://picsum.photos/400/400/?random&image=6"
+      "image": "/img/blog/sfdvw84.jpg"
     },
     {
       "start": "00:20:45.000",
       "title": "Musik3",
       "href": "",
-      "image": "https://picsum.photos/400/400/?random&image=7"
+      "image": "/img/blog/sfdvw84.jpg"
     },
     {
       "start": "00:25:44.000",
       "title": "Sempervideo - Windows 10 Spy-Funktionen abschalten",
       "href": "https://www.youtube.com/watch?v=J8J1UGEloGo",
-      "image": "https://picsum.photos/400/400/?random&image=8"
+      "image": "/img/blog/sfdvw84.jpg"
     },
     {
       "start": "00:32:30.000",
       "title": "App Berechtigungen, Ordneroptionen Dateiendungen anzeigen, Defender oder 3rd Party Defender-Einstellungen",
       "href": "",
-      "image": "https://picsum.photos/400/400/?random&image=9"
+      "image": "/img/blog/sfdvw84.jpg"
     },
     {
       "start": "00:42:20.000",
       "title": "Musik4",
       "href": "",
-      "image": "https://picsum.photos/400/400/?random&image=10"
+      "image": "/img/blog/sfdvw84.jpg"
     },
     {
       "start": "00:45:14.000",
       "title": "Braucht man Windows wirklich",
       "href": "",
-      "image": "https://picsum.photos/400/400/?random&image=11"
+      "image": "/img/blog/sfdvw84.jpg"
     },
     {
       "start": "00:49:19.000",
       "title": "Windows 10 zum Schweigen bringen!",
       "href": "https://www.oo-software.com/de/shutup10",
-      "image": "https://picsum.photos/400/400/?random&image=12"
+      "image": "/img/blog/sfdvw84.jpg"
     },
     {
       "start": "00:51:24.000",
       "title": "ITZ MLU Win 10 Privacy",
       "href": "https://www.itz.uni-halle.de/win10",
-      "image": "https://picsum.photos/400/400/?random&image=13"
+      "image": "/img/blog/sfdvw84.jpg"
     },
     {
       "start": "00:53:55.000",
       "title": "Win10 genießen",
       "href": "",
-      "image": "https://picsum.photos/400/400/?random&image=14"
+      "image": "/img/blog/sfdvw84.jpg"
     },
    {
       "start": "00:55:41.000",
       "title": "Veranstaltung und Outro",
       "href": "",
-      "image": "https://picsum.photos/400/400/?random&image=15"
+      "image": "/img/blog/sfdvw84.jpg"
     }
   ],
   "runtime": {

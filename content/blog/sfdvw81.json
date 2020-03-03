@@ -16,7 +16,7 @@
   "subtitle": "",
   "summary": "In der Ausgeabe 81 gibt es folgendes Thema: 35C3 Immer noch nichts zu verbergen und Hebocon",
   "publicationDate": "2019-01-19T20:00:00+02:00",
-  "poster": "/img/blog/sfdvw85.jpg",
+  "poster": "/img/blog/sfdvw81.jpg",
   "duration": "01:00:00.000",
   "link": "https://sfdvw.de/blog/2019-01/sfdvw-81-35C3-Immer-noch-nichts-zu-verbergen-und-Hebocon/",
   "audio": [
@@ -32,13 +32,13 @@
       "start": "00:00:00.000",
       "title": "35C3",
       "href": "",
-      "image": "https://picsum.photos/400/400/?random&image=1"
+      "image": "/img/blog/sfdvw81.jpg"
     },
     {
       "start": "00:27:18.000",
       "title": "Hebocon",
       "href": "",
-      "image": "https://picsum.photos/400/400/?random&image=1"
+      "image": "/img/blog/sfdvw81.jpg"
     }
   ],
   "runtime": {

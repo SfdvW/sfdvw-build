@@ -15,8 +15,11 @@ audio: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(78)_2018_06_
 
 ---
 
-<div id="example"></div>
+<div align="center" id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
+Feedback zur Sendung?
+[Schreibe uns ein Kommentar](mailto:SfdvW@radiocorax.de)
 
 ## Sendung Nummer 78 - Tmks Lieblingsmusik 3
 Mit dabei: tmk

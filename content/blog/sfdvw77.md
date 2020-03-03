@@ -14,8 +14,11 @@ link: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(77)_2018_03_1
 audio: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(77)_2018_03_17_Radio_Garden_von_Bernd_und_Lars.mp3"
 ---
 
-<div id="example"></div>
+<div align="center" id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
+Feedback zur Sendung?
+[Schreibe uns ein Kommentar](mailto:SfdvW@radiocorax.de)
 
 ## Sendung Nummer 77 Radio Garden von Bernd und Lars
 

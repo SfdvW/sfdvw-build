@@ -18,6 +18,30 @@ chapters: "<chapter start=\"00:00:00\" title=\"Intro\" />"
 <div align="center" id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
 
+Feedback zur Sendung?
+[Schreibe uns ein Kommentar](mailto:SfdvW@radiocorax.de)
+
+## Sendung Nummer 84 Win10-Private
+
+mit dabei: Nilo, Markus, jotilux, tmk
+
+### Shownotes
+* Intro
+* Begrüßung
+* Musik1
+* Windows Offline-Konto oder lokales Konto
+* Musik2
+* Bloat-Apps, One-Note, Office
+* Musik3
+* [Sempervideo - Windows 10 Spy-Funktionen abschalten](https://www.youtube.com/watch?v=J8J1UGEloGo)
+* App Berechtigungen, Ordneroptionen Dateiendungen anzeigen, Defender oder 3rd Party Defender-Einstellungen
+* Musik4
+* Braucht man Windows wirklich
+* [Windows 10 zum Schweigen bringen!](https://www.oo-software.com/de/shutup10)
+* [ITZ MLU Win 10 Privacy](https://www.itz.uni-halle.de/win10)
+* Win10 genießen?
+* Veranstaltung und Outro
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw84.json');
 </script>

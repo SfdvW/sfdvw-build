@@ -16,7 +16,7 @@
   "subtitle": "",
   "summary": "In der Ausgeabe 80 gibt es folgendes Thema: CRE 161 CCC Geschichte",
   "publicationDate": "2018-12-15T20:00:00+02:00",
-  "poster": "https://sfdvw.de/img/profile.jpg",
+  "poster": "/img/blog/sfdvw80.jpg",
   "duration": "01:00:00.000",
   "link": "https://sfdvw.de/blog/2018-12/sfdvw-80-CRE-161-CCC-Geschichte/",
   "audio": [
@@ -32,7 +32,7 @@
       "start": "00:00:00.000",
       "title": "Intro",
       "href": "",
-      "image": "https://picsum.photos/400/400/?random&image=1"
+      "image": "/img/blog/sfdvw80.jpg"
     }
   ],
   "runtime": {
