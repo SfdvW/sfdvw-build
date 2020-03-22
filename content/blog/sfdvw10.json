@@ -2,7 +2,7 @@
   "show": {
     "title": "Sendung für die vernetze Welt",
     "subtitle": "Technik ~ Gesellschaft ~ Internet ~ neue Medien",
-    "summary": "Immer am dritten Samstag des Monats, 20.00 Uhr, befasst sich die Sendung für die vernetzte Welt mit den Themenfeldern Technik und Gesellschaft, Internet und neue Medien. Die rechnerphile Redaktion versucht euch mitzunehmen auf eine Reise in die Welt der Daten und Netzwerke, der Onlinecommunities und Netz- und Softwarekunst. Radio Corax Freies Radio im Raum Halle ist zu höhren auf UKW 95.9 oder im Webplayer unter: https://radiocorax.de/wp-content/themes/Radiocorax/popup-player/popupplayer.php Ihr könnt live mitmachen 2.0: Über Jabber (tmkrth aat jabber ddot radiocorax ddot de) oder das Sendediensttelefon (Halle/4700744). Schreibt eure Fragen und Kritiken über eMail an SfdvW aat radiocorax ddot de. Funk frei!",
+    "summary": "Immer am dritten Samstag des Monats, 20.00 Uhr, befasst sich die Sendung für die vernetzte Welt mit den Themenfeldern Technik und Gesellschaft, Internet und neue Medien. Die rechnerphile Redaktion versucht euch mitzunehmen auf eine Reise in die Welt der Daten und Netzwerke, der Onlinecommunities und Netz- und Softwarekunst. Radio Corax Freies Radio im Raum Halle ist zu höhren auf UKW 95.9 oder im Webplayer unter: https://radiocorax.de/wp-content/themes/Radiocorax/popup-player/popupplayer.php Ihr könnt live mitmachen über das Sendediensttelefon (Halle/4700744). Schreibt eure Fragen und Kritiken über eMail an SfdvW aat radiocorax ddot de. Funk frei!",
     "poster": "https://sfdvw.de/img/profile.png",
     "link": "https://sfdvw.de"
   },
@@ -14,17 +14,17 @@
   },
   "title": "SfdvW - 10 - Chaos Communication Congress",
   "subtitle": "",
-  "summary": "In der Ausgeabe 10 gibt es folgendes Thema: Chaos Communication Congress",
+  "summary": "In der Ausgabe 10 gibt es folgendes Thema: Chaos Communication Congress",
   "publicationDate": "2008-11-26T20:00:00+02:00",
-  "poster": "https://sfdvw.de/img/profile.jpg",
+  "poster": "/img/blog/sfdvw10.jpg",
   "duration": "01:00:00.000",
-  "link": "https://sfdvw.de/blog/2008-11/sfdvw-10-Chaos-Communication-Congress/",
+  "link": "https://sfdvw.de/blog/2008-11/sfdvw-10-chaos-communication-congress/",
   "audio": [
     {
-      "url": "",
+      "url": "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(10)_2008_11_26_Chaos_Communication_Congress.ogg",
       "size": "",
-      "title": "flac",
-      "mimeType": "audio/flac"
+      "title": "mp3",
+      "mimeType": "audio/mp3"
     }
   ],
   "chapters": [
@@ -32,7 +32,7 @@
       "start": "00:00:00.000",
       "title": "Intro",
       "href": "",
-      "image": "https://picsum.photos/400/400/?random&image=1"
+      "image": "/img/blog/sfdvw10.jpg"
     }
   ],
   "runtime": {

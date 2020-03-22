@@ -2,7 +2,7 @@
   "show": {
     "title": "Sendung für die vernetze Welt",
     "subtitle": "Technik ~ Gesellschaft ~ Internet ~ neue Medien",
-    "summary": "Immer am dritten Samstag des Monats, 20.00 Uhr, befasst sich die Sendung für die vernetzte Welt mit den Themenfeldern Technik und Gesellschaft, Internet und neue Medien. Die rechnerphile Redaktion versucht euch mitzunehmen auf eine Reise in die Welt der Daten und Netzwerke, der Onlinecommunities und Netz- und Softwarekunst. Radio Corax Freies Radio im Raum Halle ist zu höhren auf UKW 95.9 oder im Webplayer unter: https://radiocorax.de/wp-content/themes/Radiocorax/popup-player/popupplayer.php Ihr könnt live mitmachen 2.0: Über Jabber (tmkrth aat jabber ddot radiocorax ddot de) oder das Sendediensttelefon (Halle/4700744). Schreibt eure Fragen und Kritiken über eMail an SfdvW aat radiocorax ddot de. Funk frei!",
+    "summary": "Immer am dritten Samstag des Monats, 20.00 Uhr, befasst sich die Sendung für die vernetzte Welt mit den Themenfeldern Technik und Gesellschaft, Internet und neue Medien. Die rechnerphile Redaktion versucht euch mitzunehmen auf eine Reise in die Welt der Daten und Netzwerke, der Onlinecommunities und Netz- und Softwarekunst. Radio Corax Freies Radio im Raum Halle ist zu höhren auf UKW 95.9 oder im Webplayer unter: https://radiocorax.de/wp-content/themes/Radiocorax/popup-player/popupplayer.php Ihr könnt live mitmachen über das Sendediensttelefon (Halle/4700744). Schreibt eure Fragen und Kritiken über eMail an SfdvW aat radiocorax ddot de. Funk frei!",
     "poster": "https://sfdvw.de/img/profile.png",
     "link": "https://sfdvw.de"
   },
@@ -14,17 +14,17 @@
   },
   "title": "SfdvW - 32 - c't online talk auf DRadioWissen Hacktivismus",
   "subtitle": "",
-  "summary": "In der Ausgeabe 32 gibt es folgendes Thema: c't online talk auf DRadioWissen Hacktivismus",
+  "summary": "In der Ausgabe 32 gibt es folgendes Thema: c't online talk auf DRadioWissen Hacktivismus",
   "publicationDate": "2011-06-18T20:00:00+02:00",
-  "poster": "https://sfdvw.de/img/profile.jpg",
+  "poster": "/img/blog/sfdvw32.jpg",
   "duration": "01:00:00.000",
-  "link": "https://sfdvw.de/blog/2011-06/sfdvw-32-c't-online-talk-auf-DRadioWissen-Hacktivismus/",
+  "link": "https://sfdvw.de/blog/2011-06/sfdvw-32-c't-online-talk-auf-dradiowissen-hacktivismus/",
   "audio": [
     {
-      "url": "",
+      "url": "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(32)_2011_06_18_c't_online_talk_auf_DRadioWissen_Hacktivismus.mp3",
       "size": "",
-      "title": "flac",
-      "mimeType": "audio/flac"
+      "title": "mp3",
+      "mimeType": "audio/mp3"
     }
   ],
   "chapters": [
@@ -32,7 +32,7 @@
       "start": "00:00:00.000",
       "title": "Intro",
       "href": "",
-      "image": "https://picsum.photos/400/400/?random&image=1"
+      "image": "/img/blog/sfdvw32.jpg"
     }
   ],
   "runtime": {
