@@ -1,3 +1,6 @@
+import os
+import shutil
+
 def main():
      f=open("index2.txt", "r")
      fl =f.readlines()
@@ -11,12 +14,13 @@ def main():
        txt = ' '.join(txt)
        name = txt.replace('.mp3', '').replace('.ogg', '').replace('.flac', '').replace('\n', '')
        long = name.replace(' ', '-')
+       long = long.lower()
        tag = '%s' % (datum[2])
        monat = '%s' % (datum[1])
        jahr = '%s' % (datum[0])
        nr = '%s' % (nr[0])
        
-#######
+####### markdownfile erzeugen
        mdname = 'sfdvw%s.md' % (nr) 
        f= open(mdname,"w+")
        f=open(mdname,"a+")
@@ -32,8 +36,8 @@ def main():
        f.write("img: \"\"\r\n")
        f.write("toc: true\r\n")
        f.write("summary: \"Sendung Nummer %s %s\"\r\n" % (nr, name))
-       f.write("link: \"https://cdn.sfdvw.de/audio/\"\r\n")
-       f.write("audio: \"https://cdn.sfdvw.de/audio/\"\r\n")
+       f.write("link: \"%s\"\r\n" % (link))
+       f.write("audio: \"%s\"\r\n" % (link))
        f.write("---\r\n")
        f.write("\r\n")
        f.write("<div align=\"center\" id=\"example\"></div>\r\n")
@@ -42,7 +46,7 @@ def main():
        f.write("Feedback zur Sendung?\r\n")
        f.write("[Schreibe uns ein Kommentar](mailto:SfdvW@radiocorax.de)\r\n")
        f.write("\r\n")
-       f.write("## SfdvW - Nummer - Thema\r\n")
+       f.write("## SfdvW - %s - %s\r\n" % (nr, name))
        f.write("mit dabei: tmk, markus, nilo, jotilux\r\n")
        f.write("\r\n")
        f.write("\r\n")
@@ -51,10 +55,9 @@ def main():
        f.write("</script>\r\n")
        f.close()   
        
-#######
+####### jsonfile erzeugen
        f=open("sfdvwMUSTER.json", "r")
        fl =f.readlines()
-       
        jsonname = 'sfdvw%s.json' % (nr)
        f= open(jsonname,"w+")
        f=open(jsonname,"a+")
@@ -62,6 +65,13 @@ def main():
          x = x.replace('#nr', nr).replace('#name', name).replace('#tag', tag).replace('#monat', monat).replace('#jahr', jahr).replace('#long', long).replace('#link', link)
          f.write(x)
        f.close()
+####### Bild erzeugen
+       os.system('sh mkpic.sh %s' % (nr))
+
+####### Dateien verschieben
+       shutil.move('%s' % (mdname), "../content/blog/%s" % (mdname))
+       shutil.move('%s' % (jsonname), "../content/blog/%s" % (jsonname))
+       shutil.move("sfdvw%s.jpg" % (nr), "../static/img/blog/sfdvw%s.jpg" % (nr))
 
 if __name__== "__main__":
   main()

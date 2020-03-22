@@ -19,7 +19,7 @@ audio: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(89)_2020_02_
 
 Feedback zur Sendung?[Schreibe uns ein Kommentar](mailto:SfdvW@radiocorax.de)
 
-## SfdvW - 89 - Congressreview
+## SfdvW - 89 - Congress Review 2 36C3
 
 mit dabei: tmk, markus, nilo, jotilux
 

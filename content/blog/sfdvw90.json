@@ -12,16 +12,16 @@
   "theme": {
     "main": "#003333"
   },
-  "title": "SfdvW - 89 - Congress Review 2 36C3",
+  "title": "SfdvW - 90 - Technik der Jugend",
   "subtitle": "",
-  "summary": "In der Ausgabe 89 gibt es folgendes Thema: Congress Review 2 36c3",
-  "publicationDate": "2020-02-15T20:00:00+02:00",
-  "poster": "/img/blog/sfdvw89.jpg",
+  "summary": "In der Ausgabe 90 gibt es folgendes Thema: Technik der Jugend",
+  "publicationDate": "2020-03-21T20:00:00+02:00",
+  "poster": "/img/blog/sfdvw90.jpg",
   "duration": "01:00:00.000",
-  "link": "https://sfdvw.de/blog/2020-02/sfdvw-89-congress-review-2-36c3/",
+  "link": "https://sfdvw.de/blog/2020-03/sfdvw-90-technik-der-jugend/",
   "audio": [
     {
-      "url": "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(89)_2020_02_15_Congress_Review_2_36C3.mp3",
+      "url": "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(90)_2020_03_21_Technik_der_Jugend.mp3",
       "size": "",
       "title": "mp3",
       "mimeType": "audio/mp3"
@@ -32,7 +32,7 @@
       "start": "00:00:00.000",
       "title": "Intro",
       "href": "",
-      "image": "/img/blog/sfdvw89.jpg"
+      "image": "/img/blog/sfdvw90.jpg"
     }
   ],
   "runtime": {
@@ -53,7 +53,7 @@
     "controlSteppers",
     "controlChapters"
   ],
-  "contributors": [
+   "contributors": [
     {
       "name": "Tmk",
       "avatar": "https://avatars2.githubusercontent.com/u/1104628?s=460&v=4",
