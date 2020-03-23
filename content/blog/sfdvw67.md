@@ -10,10 +10,17 @@ categories: ["Sendebeitrag"]
 img: ""
 toc: false
 summary: "Sendung Nummer 67 Industrieästhetik"
+link: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(67)_2016_12_17_Industrieästhetik.mp3"
+audio: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(67)_2016_12_17_Industrieästhetik.mp3"
 ---
 
-<div id="example"></div>
+<div align="center" id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
+Feedback zur Sendung?
+[Schreibe uns ein Kommentar](mailto:SfdvW@radiocorax.de)
+
+## Sendung Nummer 67 Industrieästhetik
 
 <script>
   podlovePlayer('#example', '/blog/sfdvw67.json');

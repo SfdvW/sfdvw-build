@@ -10,10 +10,17 @@ categories: ["Sendebeitrag"]
 img: ""
 toc: false
 summary: "Sendung Nummer 63 Tmks Lieblingsmusik 2"
+link: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(63)_2016_07_16_Tmks_Lieblingsmusik_2.mp3"
+audio: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(63)_2016_07_16_Tmks_Lieblingsmusik_2.mp3"
 ---
 
-<div id="example"></div>
+<div align="center" id="example"></div>
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
+Feedback zur Sendung?
+[Schreibe uns ein Kommentar](mailto:SfdvW@radiocorax.de)
+
+## Sendung Nummer 63 Tmks Lieblingsmusik 2
 
 <script>
   podlovePlayer('#example', '/blog/sfdvw63.json');

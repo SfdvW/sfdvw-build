@@ -59,7 +59,7 @@ möglichst ortsgetrennt(Disaster Recovery)
     * Ausfall Do d.h. benötigt Do, Mo
 
 ### Fragen über Fragen
-+ Datensicherungen
+* Datensicherungen
     * machen oder nicht?
         * habe ich wichtige Daten?
             * Bewerbung, Zeugniskopie/Urkunden, Zertifikate, digitale Fotos, Videoaufnahmen der ersten Schritte des Kindes, Audioaufnahmen der Band, Spielstände, Verträge, 
@@ -89,18 +89,18 @@ möglichst ortsgetrennt(Disaster Recovery)
 * *OS
     * Time-machine
 
-- Dateisysteme
+* Dateisysteme
     * [zfs](https://de.wikipedia.org/wiki/ZFS_(Dateisystem))
 
 ### Firma:
 * Gesetzliche Archivierungspflicht über Jahre (z.B. Multimediaarchiv für TV in 4k mit Datenmengen in Größenordnungen)
 * [Disaster_Recovery](https://de.wikipedia.org/wiki/Disaster_Recovery)
 * [Bandlaufwerksroboter für Wartung begehbar](https://www.youtube.com/watch?v=X5UCfU9Q-iA) [Teil2](https://www.youtube.com/watch?v=74l96vMPI5c)
-- NAS
-- Cloud
+* NAS
+* Cloud
 
 ### privat
-- 08/15 usb sticks vs. vernünftige externe festplatte/ssd vs. NAS vs. Cloud
+* 08/15 usb sticks vs. vernünftige externe festplatte/ssd vs. NAS vs. Cloud
 
 ### Verein
 * Wie macht das Radio Corax mit dem Backup?
@@ -115,9 +115,9 @@ möglichst ortsgetrennt(Disaster Recovery)
 * Festplatten sind billig
 
 ### Veranstaltungshinweise
-- 28.12.2019 Congress Junghacker-Tag
-- 16.05.2020Llinux Präsentation Day
-- 31.03.2020 [World Backup Day](http://www.worldbackupday.com/de/)
+* 28.12.2019 Congress Junghacker-Tag
+* 16.05.2020Llinux Präsentation Day
+* 31.03.2020 [World Backup Day](http://www.worldbackupday.com/de/)
 
 <script>
   podlovePlayer('#example', '/blog/sfdvw87.json');

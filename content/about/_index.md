@@ -99,3 +99,11 @@ Untere Katze ist ein im Internet weiter verbreitetes Meme und ist teilweise mit 
 **ACHTUNG - Katzenbilder im Internet zu suchen kann Ihr Leben maßgeblich verändern! Wir empfehlen dringend VOR dem öffnen der Suche ein Audiopodcast zu starten um ein Zeitgefühl zu ermöglichen**
 
 Eine Bildersuche nach "Omg Cats in Space" oder "crazy cat in space" oder "crazy cat meme" ist ein guter Start für Ihren Ausflug.
+
+### @WORK
+
+![Congress_Review_36C3](https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(88)_2020_01_18_Congress_Review_36C3.jpg)
+
+![Congress_Review_2_36C3](https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(89)_2020_02_15_Congress_Review_2_36C3.jpeg)
+
+![Studio3](https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(75)_2018_01_20_.jpg)

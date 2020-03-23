@@ -22,6 +22,12 @@ Feedback zur Sendung?
 
 ## Sendung Nummer 75 - Mit Code die Welt verbessern
 
+* [jugend hackt](https://jugendhackt.org/)
+* [junghacker.de](https://junghacker.de)
+* [eigenbaukombinat.de](https://eigenbaukombinat.de)
+
+![Studio3](https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(75)_2018_01_20_.jpg)
+
 
 <script>
   podlovePlayer('#example', '/blog/sfdvw75.json');

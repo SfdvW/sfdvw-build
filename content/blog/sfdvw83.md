@@ -25,6 +25,8 @@ Feedback zur Sendung?
 
 Mit dabei: tmk, nilo
 
+![EBK_TDOT](https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(83)_2019_08_17_Jugend_hackt,_Junghacker,_EBK_TdoT.jpg)
+
 
 <script>
   podlovePlayer('#example', '/blog/sfdvw83.json');

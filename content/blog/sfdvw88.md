@@ -108,6 +108,7 @@ mit dabei: tmk, markus, nilo, jotilux
 ### nächster Congress 37C3
 * 27. - 30.12.2020!
 
+![Congress_Review_36C3](https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(88)_2020_01_18_Congress_Review_36C3.jpg)
 
 <script>
   podlovePlayer('#example', '/blog/sfdvw88.json');

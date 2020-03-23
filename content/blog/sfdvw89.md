@@ -94,7 +94,7 @@ zweites Review zum Chaos Comunication Congress Nummer 36
     *   [http://gerdbreitenbach.de/lissajous/lissajous.html](http://gerdbreitenbach.de/lissajous/lissajous.html) Großartiges Spielzeug!
 *   [Chaosradio CR255 36C3-Spezial](https://chaosradio.de/cr255-36c3-spezial)
 
-
+![Congress_Review_2_36C3](https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(89)_2020_02_15_Congress_Review_2_36C3.jpeg)
 
 <script>
   podlovePlayer('#example', '/blog/sfdvw89.json');
