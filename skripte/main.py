@@ -2,7 +2,7 @@ import os
 import shutil
 
 def main():
-     f=open("index.txt", "r")
+     f=open("index2.txt", "r")
      fl =f.readlines()
      for x in fl:
        link = x.replace('\n', '')
