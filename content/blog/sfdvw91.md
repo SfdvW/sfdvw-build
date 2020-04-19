@@ -10,8 +10,8 @@ categories: ["Sendebeitrag"]
 img: ""
 toc: true
 summary: "Sendung Nummer 91 Quarantäneradio"
-link: "Sendung_fuer_die_vernetzte_Welt_%2891%29_2020_04_18_Quarantäneradio.mp3"
-audio: "Sendung_fuer_die_vernetzte_Welt_%2891%29_2020_04_18_Quarantäneradio.mp3"
+link: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(91)_2020_04_18_Quarantäneradio.mp3"
+audio: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(91)_2020_04_18_Quarantäneradio.mp3"
 ---
 
 <div align="center" id="example"></div>
@@ -58,7 +58,7 @@ mit dabei: tmk, markus, nilo, jotilux
 ### zwei Faktor Authentisierung / 2FA
 
 * [Zwei-Faktor-Authentifizierung /Wikipedia](https://de.wikipedia.org/wiki/Zwei-Faktor-Authentifizierung)
-* 2FA  FIDO-Protokoll  [https://www.youtube.com/watch?v=Oc32AwPL2Nw](Versteckte Funktion des ePerso - Warum hat uns das KEINER erklärt?)
+* 2FA  FIDO-Protokoll [Versteckte Funktion des ePerso - Warum hat uns das KEINER erklärt?](https://www.youtube.com/watch?v=Oc32AwPL2Nw)
 * [FIDO 2 / Wikipedia](https://de.wikipedia.org/wiki/FIDO2)
 * Die Wahrheit über Frau Mustermann oder eher Christiane, Monika, Marianne, Emil, Erwin, Martin und Max [Mustermann / taz.de](https://taz.de/!5132645/)
 * [Mustermann /Wikipedia](https://de.wikipedia.org/wiki/Mustermann)
