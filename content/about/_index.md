@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About / Impressum"
 date: 2019-09-22T20:50:18+02:00
 draft: false
 ---
@@ -21,7 +21,7 @@ Landsberger Straße 3
 06112 Halle
 Vertreten durch den aktuellen [Vorstand des Eigenbaukombinats](https://eigenbaukombinat.de/impressum).
 vorstand@eigenbaukombinat.de
-[aktuelle Satzung](https://eigenbaukombinat.de/wp-content/uploads/2018/04/satzung-2018-03.pdf) (Stand: März 2018)
+[aktuelle Satzung](https://eigenbaukombinat.de/wp-content/uploads/2020/05/satzung-2019-09.pdf) (Stand: September 2019)
 Vereinsregister: Amtsgericht Stendal, VR 3085
 
 **Sendung für die vernetzte Welt** ist ein Projekt/Sendebeitrag für [Corax e. V. – Initiative für Freies Radio](https://radiocorax.de) unterstützt durch Mitglieder des [Eigenbaukombinat Halle e.V.](https://eigenbaukombinat.de/) und technikbegeisterten Menschen.
@@ -80,7 +80,7 @@ SfdvW [aat] radiocorax [ddot] de
 
 ### Bilderquellen
 
-#### Slidshow
+#### Slideshow
 
 Bilderbezug erfolgt über die [Simplified Pixabay License](https://pixabay.com/service/license/)
 
