@@ -12,16 +12,16 @@
   "theme": {
     "main": "#003333"
   },
-  "title": "SfdvW - 69 - Computermuseum Halle",
+  "title": "SfdvW - 94 - ARM Prozessoren",
   "subtitle": "",
-  "summary": "In der Ausgabe 69 gibt es folgendes Thema: Computermuseum Halle",
-  "publicationDate": "2017-02-18T20:00:00+02:00",
-  "poster": "/img/blog/sfdvw69.jpg",
+  "summary": "In der Ausgabe 94 gibt es folgendes Thema: ARM Prozessoren",
+  "publicationDate": "2020-07-18T20:00:00+02:00",
+  "poster": "/img/blog/sfdvw94.jpg",
   "duration": "01:00:00.000",
-  "link": "https://sfdvw.de/blog/2017-02/sfdvw-69-computermuseum-halle/",
+  "link": "https://sfdvw.de/blog/2020-07/sfdvw-94-arm-prozessoren/",
   "audio": [
     {
-      "url": "https://oxwo.de/audio/Sendung_fuer_die_vernetzte_Welt_(69)_2017_02_18_Computermuseum_Halle.mp3",
+      "url": "https://oxwo.de/audio/Sendung_fuer_die_vernetzte_Welt_(94)_2020_07_18_ARM_Prozessoren.mp3",
       "size": "",
       "title": "mp3",
       "mimeType": "audio/mp3"
@@ -32,7 +32,7 @@
       "start": "00:00:00.000",
       "title": "Intro",
       "href": "",
-      "image": "/img/blog/sfdvw69.jpg"
+      "image": "/img/blog/sfdvw94.jpg"
     }
   ],
   "runtime": {

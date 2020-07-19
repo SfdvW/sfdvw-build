@@ -10,8 +10,8 @@ categories: ["Sendebeitrag"]
 img: ""
 toc: false
 summary: "Sendung Nummer 69 Computermuseum Halle"
-link: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(69)_2017_02_18_Computermuseum_Halle.mp3"
-audio: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(69)_2017_02_18_Computermuseum_Halle.mp3"
+link: "https://oxwo.de/audio/Sendung_fuer_die_vernetzte_Welt_(69)_2017_02_18_Computermuseum_Halle.mp3"
+audio: "https://oxwo.de/audio/Sendung_fuer_die_vernetzte_Welt_(69)_2017_02_18_Computermuseum_Halle.mp3"
 ---
 
 <div align="center" id="example"></div>
