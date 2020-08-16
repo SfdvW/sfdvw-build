@@ -4,7 +4,7 @@ publishdate: "2020-07-18+20:00"
 lastmod: "2020-07-18+20:00"
 draft: false
 title: "SfdvW - 94 - ARM Prozessoren"
-tags: ["CPU", "ARM", "20JareCORAX", "Apple", "DDR-Computerszene"]
+tags: ["CPU", "ARM", "20JahreCORAX", "Apple", "DDR-Computerszene"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""
