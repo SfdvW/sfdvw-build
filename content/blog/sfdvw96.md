@@ -35,28 +35,28 @@ Kennt ihr solche Aussagen? Im Fall von Futurama ist es natürlich als Witz gemei
 
 ### Medienlinks
 * Bewegtbild
-  * [https://media.ccc.de/v/24c3-2288-de-verschwoerungstheorien](Wolfgang Wippermann - Agenten des Bösen, 2007, /media.ccc.de)
-  * [https://media.ccc.de/v/EH2010-3738-de-verschwoerungsdenken](Nico Bach - Verschwörungsdenken, 2010, /media.ccc.de) 
-  * [https://media.ccc.de/v/content18-3-hate-speech-fake-news-ein-wegweiser](Julia Krüger - Hate Speech & Fake News - Ein Wegweiser, 2018, /media.ccc.de)
-  * [https://www.youtube.com/watch?v=ZjIX_CsZLN8](Pia Lamberty und Katharina Nocun - Fake Facts – Wie Verschwörungstheorien unser Denken bestimmen, 2020, /youtube.com)
-  * [https://media.ccc.de/search/?q=fake](media.ccc.de mit Suchbegriff Fake /media.ccc.de)
+  * [Wolfgang Wippermann - Agenten des Bösen, 2007, /media.ccc.de](https://media.ccc.de/v/24c3-2288-de-verschwoerungstheorien)
+  * [Nico Bach - Verschwörungsdenken, 2010, /media.ccc.de](https://media.ccc.de/v/EH2010-3738-de-verschwoerungsdenken) 
+  * [Julia Krüger - Hate Speech & Fake News - Ein Wegweiser, 2018, /media.ccc.de](https://media.ccc.de/v/content18-3-hate-speech-fake-news-ein-wegweiser)
+  * [Pia Lamberty und Katharina Nocun - Fake Facts – Wie Verschwörungstheorien unser Denken bestimmen, 2020, /youtube.com](https://www.youtube.com/watch?v=ZjIX_CsZLN8)
+  * [media.ccc.de mit Suchbegriff Fake /media.ccc.de](https://media.ccc.de/search/?q=fake)
 
 * Totholz
-  * [https://taz.de/Medienkompetenz-von-Lehrerinnen/!5706779/](Medienkompetenz bei Lehrerinnen und Lehrern, taz, 02.09.2020, /taz.de)
-  * [https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=idn%3D1198025727](Pia Lamberty und Katharina Nocun - Fake Facts – Wie Verschwörungstheorien unser Denken bestimmen, 2020, /dnb.de)
+  * [Medienkompetenz bei Lehrerinnen und Lehrern, taz, 02.09.2020, /taz.de](https://taz.de/Medienkompetenz-von-Lehrerinnen/!5706779/)
+  * [Pia Lamberty und Katharina Nocun - Fake Facts – Wie Verschwörungstheorien unser Denken bestimmen, 2020, /dnb.de](https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=idn%3D1198025727)
 
 * collaboration dictionary aka Wikipedia aka Wenn es im Internet steht muss es ja stimmen #faelschungssicher
-  * [https://de.wikipedia.org/wiki/Fake_News](Fake-News /wikipedia)
-  * [https://de.wikipedia.org/wiki/Verschw%C3%B6rungserz%C3%A4hlung](Verschwörungserzählung /wikipedia)
+  * [Fake-News /wikipedia](https://de.wikipedia.org/wiki/Fake_News)
+  * [Verschwörungserzählung /wikipedia](https://de.wikipedia.org/wiki/Verschw%C3%B6rungserz%C3%A4hlung)
 
 * rhythmische Klatschspiele
-  * [https://www.youtube.com/watch?v=QCtLXdLSIns](Dritte Wahl - Wenn ihr wüsstet /youtube)
-  * [https://www.youtube.com/watch?v=6X9CEi8wkBc](Die Ärzte - Schrei nach Liebe /youtube)
+  * [Dritte Wahl - Wenn ihr wüsstet /youtube](https://www.youtube.com/watch?v=QCtLXdLSIns)
+  * [Die Ärzte - Schrei nach Liebe /youtube](https://www.youtube.com/watch?v=6X9CEi8wkBc)
 
 ### Hausaufgaben
 
-* [https://www.der-postillon.com/](Medienkompetenz üben)
-* [https://www.tagesschau.de/faktenfinder/fakenews-erkennen-tutorial-101.html](Fakenews erkennen Tutorial /tagesschau)
+* [Medienkompetenz üben mit Postillon](https://www.der-postillon.com/)
+* [Fakenews erkennen Tutorial /tagesschau](https://www.tagesschau.de/faktenfinder/fakenews-erkennen-tutorial-101.html)
 * erinnert mir den tmk bitte regelmäßig an seine Hausaufgaben!
 
 <script>
