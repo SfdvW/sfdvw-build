@@ -57,7 +57,6 @@ Kennt ihr solche Aussagen? Im Fall von Futurama ist es natürlich als Witz gemei
 
 * [Medienkompetenz üben mit Postillon](https://www.der-postillon.com/)
 * [Fakenews erkennen Tutorial /tagesschau](https://www.tagesschau.de/faktenfinder/fakenews-erkennen-tutorial-101.html)
-* erinnert mir den tmk bitte regelmäßig an seine Hausaufgaben!
 
 <script>
   podlovePlayer('#example', '/blog/sfdvw96.json');
