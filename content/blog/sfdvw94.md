@@ -10,8 +10,8 @@ categories: ["Sendebeitrag"]
 img: ""
 toc: true
 summary: "Sendung Nummer 94 ARM Prozessoren"
-link: "https://oxwo.de/audio/Sendung_fuer_die_vernetzte_Welt_(94)_2020_07_18_ARM_Prozessoren.mp3"
-audio: "https://oxwo.de/audio/Sendung_fuer_die_vernetzte_Welt_(94)_2020_07_18_ARM_Prozessoren.mp3"
+link: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(94)_2020_07_18_ARM_Prozessoren.mp3"
+audio: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(94)_2020_07_18_ARM_Prozessoren.mp3"
 ---
 
 <div align="center" id="example"></div>

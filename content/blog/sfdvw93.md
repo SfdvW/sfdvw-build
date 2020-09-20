@@ -10,8 +10,8 @@ categories: ["Sendebeitrag"]
 img: ""
 toc: true
 summary: "Sendung Nummer 93 Plan 9"
-link: "https://oxwo.de/audio/Sendung_fuer_die_vernetzte_Welt_(93)_2020_06_20_Plan_9.mp3"
-audio: "https://oxwo.de/audio/Sendung_fuer_die_vernetzte_Welt_(93)_2020_06_20_Plan_9.mp3"
+link: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(93)_2020_06_20_Plan_9.mp3"
+audio: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(93)_2020_06_20_Plan_9.mp3"
 ---
 
 <div align="center" id="example"></div>

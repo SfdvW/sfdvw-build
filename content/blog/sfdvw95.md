@@ -10,8 +10,8 @@ categories: ["Sendebeitrag"]
 img: ""
 toc: true
 summary: "Sendung Nummer 95 Gartensendung"
-link: "https://oxwo.de/audio/Sendung_fuer_die_vernetzte_Welt_(95)_2020_08_15_Gartensendung.mp3"
-audio: "https://oxwo.de/audio/Sendung_fuer_die_vernetzte_Welt_(95)_2020_08_15_Gartensendung.mp3"
+link: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(95)_2020_08_15_Gartensendung.mp3"
+audio: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(95)_2020_08_15_Gartensendung.mp3"
 ---
 
 <div align="center" id="example"></div>
@@ -30,7 +30,7 @@ Diesesmal keine Sendung über Bits und Bytes aber mit ganz viel Ausgleichsthemen
 ### Quellen
 Vogelgesänge vom Schaltplattenvogelbuch "Sang da nicht die Nachtigall?" von Ernst Schälow und Dr. Viktor Wendland, J. Neumann-Neudamm Verlag, Melsungen 1960
 
-![Congress_Review_36C3](https://oxwo.de/audio/Sendung_fuer_die_vernetzte_Welt_(95)_2020_08_15_Gartensendung.jpg)
+![Congress_Review_36C3](https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(95)_2020_08_15_Gartensendung.jpg)
 
 <script>
   podlovePlayer('#example', '/blog/sfdvw95.json');
