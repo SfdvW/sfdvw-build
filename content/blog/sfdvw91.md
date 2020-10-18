@@ -52,8 +52,7 @@ mit dabei: tmk, markus, nilo, jotilux
 * [Shownotes SfdvW - 90 - Teil Pandemie und Schule](https://sfdvw.de/blog/2020-03/sfdvw-90-technik-der-jugend/#/pandemie-und-schule)
 * [Die Verneigung vor Ihrem Smartphone! /ergonomie.blog](https://ergonomie.blog/die-verneigung-vor-ihrem-smartphone/)
 * [Ergonomie im mobile Büro /heise.de](https://www.heise.de/ix/meldung/Ergonomie-im-mobilen-Buero-Studie-untersucht-Nackenbelastung-durch-Smartphones-2462246.html)
-* extra für *Tim* nochmal hier: [emuCloud - Bildungsserver Sachsen-Anhalt](https://www.bildung-lsa.de/support/emucloud.html)
-	* er liest eh keine Shownotes, vielleicht erinnert Ihr mal Tim? :heart:
+* [emuCloud - Bildungsserver Sachsen-Anhalt](https://www.bildung-lsa.de/support/emucloud.html)
 
 ### zwei Faktor Authentisierung / 2FA
 
