@@ -45,6 +45,16 @@ mit dabei: markus, nilo, jotilux, Alex
 * IO-Panel aus Blinkenlights und Schaltern
 * Nachbau [PDP-8 /wikipedia](https://de.wikipedia.org/wiki/PDP-8)
 
+### Weiterführende Links
+* [Using CP/M - Computerphile /youtube.com](https://www.youtube.com/watch?v=zcH-UK4JPM0)
+* [Building a ZX Spectrum 128K Clone (Harlequin 128 Rev 2D) /youtube.com](https://www.youtube.com/watch?v=CgfEhUEvCR0)
+* [ZX-HD HDMI for Sinclair ZX Spectrum - Build, Usage & HONEST review - ULA plus /youtube.com](https://www.youtube.com/watch?v=nN9bXtiDmxg)
+* [z80.no](https://www.z80.no/)
+* [specnext.com](https://www.specnext.com/)
+* [mini-pet](https://www.thefuturewas8bit.com/mini-pet.html)
+* [c64p](https://www.thefuturewas8bit.com/c64p)
+* [rc2014.co.uk](https://rc2014.co.uk/)
+
 ### Zusatz
 * [Demoszene /wikipedia](https://de.wikipedia.org/wiki/Demoszene)
   * Beispiel: [max. 1024Byte Javascript /js1024.fun](https://js1024.fun/demos/2020)
