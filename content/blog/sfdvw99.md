@@ -10,8 +10,8 @@ categories: ["Sendebeitrag"]
 img: ""
 toc: true
 summary: "Sendung Nummer 99 Memento Mori"
-link: "Sendung_fuer_die_vernetzte_Welt_(99)_2020_12_19_Memento_Mori.mp3"
-audio: "Sendung_fuer_die_vernetzte_Welt_(99)_2020_12_19_Memento_Mori.mp3"
+link: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(99)_2020_12_19_Memento_Mori.mp3"
+audio: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(99)_2020_12_19_Memento_Mori.mp3"
 ---
 
 <div align="center" id="example"></div>
