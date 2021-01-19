@@ -24,7 +24,7 @@ Feedback zur Sendung?
 mit dabei: tmk, markus, nilo, jotilux, kai, ahab, stefan
 
 ### Worum geht es Heute?
-Hallo! Gehen wir zusammen in das virtuelle Studio. Sieben Freunde feiern einhundert Sendungen mit euch und Ihnen. Remote-UKW und Online **Sendung für die vernetze Welt** mit Kai, Ahab, Stefan, Jotilux, Nilo, Markus und Tmk
+Hallo! Gehen wir zusammen in das virtuelle Studio. Sieben Freunde feiern einhundert Sendungen mit euch und Ihnen. Remote-UKW und Online **Sendung für die vernetzte Welt** mit Kai, Ahab, Stefan, Jotilux, Nilo, Markus und Tmk
 
 ![Einhundert](https://oxwo.de/audio/Sendung_fuer_die_vernetzte_Welt_(100)_2021_01_16_Einhundert.png)
 
