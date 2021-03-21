@@ -10,8 +10,8 @@ categories: ["Sendebeitrag"]
 img: ""
 toc: true
 summary: "Sendung Nummer 102 Radio Corax Technik"
-link: "Sendung_fuer_die_vernetzte_Welt_(102)_2021_03_20_Radio_Corax_Technik.mp3"
-audio: "Sendung_fuer_die_vernetzte_Welt_(102)_2021_03_20_Radio_Corax_Technik.mp3"
+link: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(102)_2021_03_20_Radio_Corax_Technik.mp3"
+audio: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(102)_2021_03_20_Radio_Corax_Technik.mp3"
 ---
 
 <div align="center" id="example"></div>
