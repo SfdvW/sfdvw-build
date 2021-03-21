@@ -21,7 +21,7 @@ Feedback zur Sendung?
 [Schreibe uns ein Kommentar](mailto:SfdvW@radiocorax.de)
 
 ## SfdvW - 102 - Radio Corax Technik
-mit dabei: daniel, tmk, markus, nilo, jotilux
+mit dabei: daniel, tmk, andre, stefan, jotilux
 
 ### Worum geht es Heute?
 Die Sendung für die vernetzte Welt begrüßt heute einen für uns besonderen Gast. Als langjähriger Wegbegleiter schätzen wir ihn als kompetenten Ansprechpartner in allen technischen Belangen, aber auch als Freund, ja für einige von uns wäre sogar Mentor zutreffend. Die Rede ist von Daniel Ott. Seit vielen Jahren koordiniert er die technischen Aspekte des Radio Corax, wie z.B. die radiotechnische Ausbildung.
