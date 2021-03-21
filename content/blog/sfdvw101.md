@@ -10,8 +10,8 @@ categories: ["Sendebeitrag"]
 img: ""
 toc: true
 summary: "Sendung Nummer 101 Chaoszonen-Radios"
-link: "https://oxwo.de/audio/Sendung_fuer_die_vernetzte_Welt_(101)_2021_02_20_Chaoszonen-Radios.mp3"
-audio: "https://oxwo.de/audio/Sendung_fuer_die_vernetzte_Welt_(101)_2021_02_20_Chaoszonen-Radios.mp3"
+link: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(101)_2021_02_20_Chaoszonen-Radios.mp3"
+audio: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(101)_2021_02_20_Chaoszonen-Radios.mp3"
 ---
 
 <div align="center" id="example"></div>

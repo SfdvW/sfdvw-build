@@ -10,8 +10,8 @@ categories: ["Sendebeitrag"]
 img: ""
 toc: true
 summary: "Sendung Nummer 100 Einhundert"
-link: "https://oxwo.de/audio/Sendung_fuer_die_vernetzte_Welt_(100)_2021_01_16_Einhundert.mp3"
-audio: "https://oxwo.de/audio/Sendung_fuer_die_vernetzte_Welt_(100)_2021_01_16_Einhundert.mp3"
+link: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(100)_2021_01_16_Einhundert.mp3"
+audio: "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(100)_2021_01_16_Einhundert.mp3"
 ---
 
 <div align="center" id="example"></div>
@@ -26,7 +26,7 @@ mit dabei: tmk, markus, nilo, jotilux, kai, ahab, stefan
 ### Worum geht es Heute?
 Hallo! Gehen wir zusammen in das virtuelle Studio. Sieben Freunde feiern einhundert Sendungen mit euch und Ihnen. Remote-UKW und Online **Sendung für die vernetzte Welt** mit Kai, Ahab, Stefan, Jotilux, Nilo, Markus und Tmk
 
-![Einhundert](https://oxwo.de/audio/Sendung_fuer_die_vernetzte_Welt_(100)_2021_01_16_Einhundert.png)
+![Einhundert](https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(100)_2021_01_16_Einhundert.png)
 
 * 01:20 Das Bild zum Audio
 * 02:20 Kein Zugriff auf die Webcam bei Tmk

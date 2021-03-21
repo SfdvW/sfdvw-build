@@ -12,16 +12,16 @@
   "theme": {
     "main": "#003333"
   },
-  "title": "SfdvW - 100 - Einhundert",
+  "title": "SfdvW - 102 - Radio Corax Technik",
   "subtitle": "",
-  "summary": "In der Ausgabe 100 gibt es folgendes Thema: Einhundert",
-  "publicationDate": "2021-01-16T20:00:00+02:00",
-  "poster": "/img/blog/sfdvw100.jpg",
+  "summary": "In der Ausgabe 102 gibt es folgendes Thema: Radio Corax Technik",
+  "publicationDate": "2021-03-20T20:00:00+02:00",
+  "poster": "/img/blog/sfdvw102.jpg",
   "duration": "01:00:00.000",
-  "link": "https://sfdvw.de/blog/2021-01/sfdvw-100-einhundert/",
+  "link": "https://sfdvw.de/blog/2021-03/sfdvw-102-radio-corax-technik/",
   "audio": [
     {
-      "url": "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(100)_2021_01_16_Einhundert.mp3",
+      "url": "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(102)_2021_03_20_Radio_Corax_Technik.mp3",
       "size": "",
       "title": "mp3",
       "mimeType": "audio/mp3"
@@ -32,7 +32,7 @@
       "start": "00:00:00.000",
       "title": "Intro",
       "href": "",
-      "image": "/img/blog/sfdvw100.jpg"
+      "image": "/img/blog/sfdvw102.jpg"
     }
   ],
   "runtime": {
