@@ -1,0 +1,74 @@
+{
+  "show": {
+    "title": "Sendung für die vernetzte Welt",
+    "subtitle": "Technik ~ Gesellschaft ~ Internet ~ neue Medien",
+    "summary": "Immer am dritten Samstag des Monats, 20.00 Uhr, befasst sich die Sendung für die vernetzte Welt mit den Themenfeldern Technik und Gesellschaft, Internet und neue Medien. Die rechnerphile Redaktion versucht euch mitzunehmen auf eine Reise in die Welt der Daten und Netzwerke, der Onlinecommunities und Netz- und Softwarekunst. Radio Corax Freies Radio im Raum Halle ist zu höhren auf UKW 95.9 oder im Webplayer unter: https://radiocorax.de/wp-content/themes/Radiocorax/popup-player/popupplayer.php Ihr könnt live mitmachen über das Sendediensttelefon (Halle/4700744). Schreibt eure Fragen und Kritiken über eMail an SfdvW aat radiocorax ddot de. Funk frei!",
+    "poster": "https://sfdvw.de/img/profile.png",
+    "link": "https://sfdvw.de"
+  },
+  "reference": {
+    "config": "https://sfdvw.de"
+  },
+  "theme": {
+    "main": "#003333"
+  },
+  "title": "SfdvW - 103 - Iceland",
+  "subtitle": "",
+  "summary": "In der Ausgabe 103 gibt es folgendes Thema: Iceland",
+  "publicationDate": "2021-03-31T20:00:00+02:00",
+  "poster": "/img/blog/sfdvw103.jpg",
+  "duration": "01:00:00.000",
+  "link": "https://sfdvw.de/blog/2021-03/sfdvw-103-iceland/",
+  "audio": [
+    {
+      "url": "https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(103)_2021_03_31_Iceland.mp3",
+      "size": "",
+      "title": "mp3",
+      "mimeType": "audio/mp3"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00:00.000",
+      "title": "Intro",
+      "href": "",
+      "image": "/img/blog/sfdvw103.jpg"
+    }
+  ],
+  "runtime": {
+    "locale": "de-De",
+    "language": "de"
+  },
+  "visibleComponents": [
+    "tabInfo",
+    "tabChapters",
+    "tabDownload",
+    "tabAudio",
+    "tabShare",
+    "poster",
+    "showTitle",
+    "episodeTitle",
+    "subtitle",
+    "progressbar",
+    "controlSteppers",
+    "controlChapters"
+  ],
+  "contributors": [
+    {
+      "name": "Tmk",
+      "avatar": "https://avatars2.githubusercontent.com/u/1104628?s=460&v=4",
+      "role": {
+        "id": "9",
+        "slug": "team",
+        "title": "Team"
+      },
+      "group": {
+        "id": "1",
+        "slug": "onair",
+        "title": "On Air"
+      },
+      "comment": null,
+      "id": "tmk"
+    }
+  ]
+}
