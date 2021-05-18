@@ -21,31 +21,35 @@ Feedback zur Sendung?
 [Schreibe uns ein Kommentar](mailto:SfdvW@radiocorax.de)
 
 ## SfdvW - 105 - Ein kleines Funkmagazin
-mit dabei: Bernd
+mit dabei: Bernd, Ben Levi, Reinhardt, Dietmar
 
+### Worum geht es Heute?
 Heute führt uns Bernd, DL6MOG, herum in der Welt des Amateurfunks in "Ein kleines Funkmagazin"!
 
+### Interview Ben Levi
 Zuerst berichtet Ben Levi, DL9HUH, über seine erste, gewöhnliche Drahtantenne, die 80 Meter Reichweite auf schwacher Hochfrequenz aufwies. Er wurde aber nie gepeilt. Es brauchte Telegraphiekenntnisse und man konnte auf den Wellen zuhören, dazu die schönen QSL-Karten.
 
 Nach der Prüfung darf man auch sprechen; weltweit, zum Mond und zu den Menschen auf der ISS. Sag "Hallo!" zu einem Fremden in einem anderen Land, digital oder in Klartext!
 
-* Amateurfunk https://de.wikipedia.org/wiki/Amateurfunkdienst
-* BNetzA https://www.bundesnetzagentur.de/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Frequenzen/SpezielleAnwendungen/Amateurfunk/amateurfunk_node.html
-* QSL-Karten-Galerie Dokufunk.org http://www.dokufunk.org/virtual_museum/qsl-galleries/index.php?CID=7695
-* Bildfunk auf UKW ist möglich http://www.hurcks.de/funkempfang/8service/pdf/rs-archiv/BILDFUNK-KW_1998-01.PDF
+* [Amateurfunkdienst /wikipedia](https://de.wikipedia.org/wiki/Amateurfunkdienst)
+* [BNetzA](https://www.bundesnetzagentur.de/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Frequenzen/SpezielleAnwendungen/Amateurfunk/amateurfunk_node.html)
+* QSL-Karten-Galerie [Dokufunk.org](http://www.dokufunk.org/virtual_museum/qsl-galleries/index.php?CID=7695)
+* Bildfunk auf UKW ist möglich [pdf](http://www.hurcks.de/funkempfang/8service/pdf/rs-archiv/BILDFUNK-KW_1998-01.PDF)
 
+### Interview Reinhardt
 Reinhard, DK5RK, hat alle Details zum 1. 📌 geostationären 📌 Amateurfunksatelliten Es’hail-2. Ein wahrer Stern am Amateurfunkhimmel, keine Antennen mehr nachführen! Zumindest für eine Reichweite vom Nordpol bis zur Antarktis und von der Ostküste Brasiliens bis zu den Philippinen, wenns genügt. Live ab 28:30. 73
 
-* Satellit https://de.wikipedia.org/wiki/Es%E2%80%99hail-2 https://en.wikipedia.org/wiki/Es%27hail_2 (Katar, Mitsubishi, Falcon 9 2018-11)
-* Neumayer-Station III https://de.wikipedia.org/wiki/Neumayer-Station_III
-* SDR https://de.wikipedia.org/wiki/Software_Defined_Radio (zuhören kann jeder, senden nur mit Prüfung legal)
-* Sonnen-Aktivität https://de.wikipedia.org/wiki/Sonnenaktivit%C3%A4t (mehr Aktivität der Sonne = besser für den Amateurfunk)
-* MLU Club Station, DL0MLU https://www.amateurradio.uni-halle.de/index.en.html
+* Satellit [Es hail2 /wikipedia de](https://de.wikipedia.org/wiki/Es%E2%80%99hail-2), [Es hail2 /wikipedia en](https://en.wikipedia.org/wiki/Es%27hail_2) (Katar, Mitsubishi, Falcon 9 2018-11)
+* [Neumayer-Station III /wikipedia](https://de.wikipedia.org/wiki/Neumayer-Station_III)
+* [SDR /wikipedia](https://de.wikipedia.org/wiki/Software_Defined_Radio) (zuhören kann jeder, senden nur mit Prüfung legal)
+* [Sonnen-Aktivität /wikipedia](https://de.wikipedia.org/wiki/Sonnenaktivit%C3%A4t) (mehr Aktivität der Sonne = besser für den Amateurfunk)
+* [MLU Club Station, DL0MLU](https://www.amateurradio.uni-halle.de/index.en.html)
 
-Dietmar mit einem Kommentar zu der ganzen Funkerei und einem Konzept zur Energiegewinnung mit https://de.wikipedia.org/wiki/Bogenhanf.
+### Intwerview Dietmar
+Dietmar mit einem Kommentar zu der ganzen Funkerei und einem Konzept zur Energiegewinnung mit [Bogenhanf /wikipedia](https://de.wikipedia.org/wiki/Bogenhanf).
 
-* Amateurfunk-News https://funk-telegramm.de/
-* Bonus-Link (RADIOBASTLER - Fred Kinglee u. d. King-Kols): https://www.youtube.com/watch?v=R_JppQXaiz4
+* [Amateurfunk-News](https://funk-telegramm.de/)
+* Bonus-Link [RADIOBASTLER - Fred Kinglee u. d. King-Kols](https://www.youtube.com/watch?v=R_JppQXaiz4)
 
 
 <script>
