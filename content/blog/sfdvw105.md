@@ -45,9 +45,10 @@ Reinhard, DK5RK, hat alle Details zum 1. 📌 geostationären 📌 Amateurfunksa
 * [Sonnen-Aktivität /wikipedia](https://de.wikipedia.org/wiki/Sonnenaktivit%C3%A4t) (mehr Aktivität der Sonne = besser für den Amateurfunk)
 * [MLU Club Station, DL0MLU](https://www.amateurradio.uni-halle.de/index.en.html)
 
-### Intwerview Dietmar
+### Kommentar Dietmar
 Dietmar mit einem Kommentar zu der ganzen Funkerei und einem Konzept zur Energiegewinnung mit [Bogenhanf /wikipedia](https://de.wikipedia.org/wiki/Bogenhanf).
 
+### News
 * [Amateurfunk-News](https://funk-telegramm.de/)
 * Bonus-Link [RADIOBASTLER - Fred Kinglee u. d. King-Kols](https://www.youtube.com/watch?v=R_JppQXaiz4)
 
