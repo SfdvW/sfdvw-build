@@ -46,7 +46,7 @@ Im Rahmen der vielen Möglichkeiten zur ditigalen Teilhabe nähern wir uns heute
 * [Introducing Liftware Level /youtube.com](https://www.youtube.com/watch?v=YNwfXeLlqsU)
 * [Braille Smart Watch | The Henry Ford's Innovation Nation /youtube.com](https://www.youtube.com/watch?v=3fvqAA0EvUg)
 * [Podcasttranscript mit WEBVTT /wikipedia](https://en.wikipedia.org/wiki/WebVTT)
-* [Transcripte im Podlove Publisher 2.8](https://podlove.org/2019/05/13/podlove-publisher-2-8/) 
+* [Transcripte im Podlove Publisher 2.8](https://podlove.org/2019/05/13/podlove-publisher-2-8/)
 
 ### Links (texten)
 * [Hinweise für Word-Dokumente (Microsoft)](https://t1p.de/6xec)
@@ -55,7 +55,7 @@ Im Rahmen der vielen Möglichkeiten zur ditigalen Teilhabe nähern wir uns heute
 * [Grafiken barrierefrei einsetzen](https://t1p.de/k4u1)
 * [Barrierefreiheit mit LibreOffice](https://t1p.de/sqz8)
 * [Hinweise für PDF-Dokumente -Barrierefreiheit mit Adobe Acrobat](https://t1p.de/uyln)
-* [Hinweise für Videos: W3C Web Accessibility Initiative (WAI): Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/)https://podlohttps://podlove.org/2019/05/13/podlove-publisher-2-8/ve.org/2019/05/13/podlove-publisher-2-8/
+* [Hinweise für Videos: W3C Web Accessibility Initiative (WAI): Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/)
 
 ### Links (technisch)
 * https://www.marlem-software.de/marlemblog/

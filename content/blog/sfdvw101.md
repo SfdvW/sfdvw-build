@@ -4,7 +4,7 @@ publishdate: "2021-02-20+20:00"
 lastmod: "2021-02-20+20:00"
 draft: false
 title: "SfdvW - 101 - Chaoszonen-Radios"
-tags: ["hyperbandrauschen", "Radio-ccc-p", "Datenkanal", "Pentaradio", "chch-Radio", "Gemeinsachftssendung"]
+tags: ["hyperbandrauschen", "Radio-ccc-p", "Datenkanal", "Pentaradio", "chch-Radio", "Gemeinschaftssendung"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""
