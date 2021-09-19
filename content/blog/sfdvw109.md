@@ -4,7 +4,7 @@ publishdate: "2021-09-18+20:00"
 lastmod: "2021-09-18+20:00"
 draft: false
 title: "SfdvW - 109 - LoRaWAN"
-tags: ["LoRaWAN", "TTN", "WAN", ""]
+tags: ["LoRaWAN", "TTN", "WAN", "Zirpenfrequenzspreizung"]
 series: ["SfdvW"]
 categories: ["Sendebeitrag"]
 img: ""
@@ -21,7 +21,7 @@ Feedback zur Sendung?
 [Schreibe uns ein Kommentar](mailto:SfdvW@radiocorax.de)
 
 ## SfdvW - 109 - LoRaWAN
-mit dabei: tmk, nilo, Andreas, Spiegie
+mit dabei: tmk, nilo, markus, Andreas, Spiegie
 
 ### Worum geht es Heute?
 In Folge 109 geht es um LoRaWAN - dem "Long Range Wide Area Netzwork". Wir haben mit Andreas gesprochen,
