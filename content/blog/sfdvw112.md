@@ -33,6 +33,7 @@ Pünktlich zu Jahresende ein kleiner Adventskalender inkl. den ein oder anderen 
 
 ### Chaoszone TV
 * https://chaoszone.cz/about.html
+* https://media.ccc.de/c/rc3/ChaosZone
 * https://en.wikipedia.org/wiki/OBS_Studio
 * https://en.wikipedia.org/wiki/Real_Time_Messaging_Protocol
 * https://en.wikipedia.org/wiki/Secure_Reliable_Transport
