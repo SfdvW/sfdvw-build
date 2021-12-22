@@ -29,7 +29,7 @@ Pünktlich zu Jahresende ein kleiner Adventskalender inkl. den ein oder anderen 
 ### Musik
 * [Try.Fail.Repeat](https://www.youtube.com/watch?v=MWefSko7ULQ) von Walls of Jericho vom Album "With Devils Amongst Us All"
 * [Segeln](https://www.youtube.com/watch?v=V9bwo4N1AAE) von COR vom Album Prekariat
-* [K. O. O. K.](https://www.youtube.com/watch?v=9hI9x8zO9tU) von Tocotronic (1999)
+* [17](https://www.youtube.com/watch?v=9hI9x8zO9tU) von Tocotronic vom Album K.O.O.K. (1999)
 
 ### Chaoszone TV
 * https://chaoszone.cz/about.html
