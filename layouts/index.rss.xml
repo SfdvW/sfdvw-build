@@ -6,7 +6,8 @@
     <language>de</language>
     <copyright>Sendung für die vernetzte Welt</copyright>
     <!-- <atom:linkhref="http://sfdvw.de/index.xml" rel="self" type="application/rss+xml" /> -->
-    <lastBuildDate>{{ .PublishDate.Format "Wed, 2 Jan 2006 15:04:05 GMT" }}</lastBuildDate>
+    <!-- <lastBuildDate>{{ .PublishDate.Format "Wed, 2 Jan 2006 15:04:05 GMT" | safeHTML }}</lastBuildDate> -->
+    <lastBuildDate> {{ .Page.Lastmod.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
     <itunes:author>SfdvW</itunes:author>
     <itunes:summary>Immer am dritten Samstag des Monats, 20.00 Uhr, befasst sich die Sendung für die vernetzte Welt mit den Themenfeldern Technik und Gesellschaft, Internet und neue Medien. Die rechnerphile Redaktion versucht euch mitzunehmen auf eine Reise in die Welt der Daten und Netzwerke, der Onlinecommunities und Netz- und Softwarekunst. Radio Corax Freies Radio im Raum Halle ist zu höhren auf UKW 95.9 oder im Webplayer. Ihr könnt live mitmachen über Sendediensttelefon (Halle/4700744). Schreibt eure Fragen und Kritiken über eMail an SfdvW aat radiocorax ddot de. Funk frei!</itunes:summary>
     <itunes:owner>
@@ -26,7 +27,8 @@
       {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.params.author }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
       <description>{{ .Content | html }}</description>
-      <enclosure url="{{ .Params.link }}" type="audio/mpeg" length="1" />
+      <enclosure url="{{ .Params.link }}" type="audio/mpeg" length="58000000" />
+        {{ with .File.TranslationBaseName }}{{ $image_location := printf "static/img/blog/%s.jpg" .}}{{$image := readFile $image_location }}{{$len := len $image}}<enclosure url="https://sfdvw.de/img/blog/{{.}}.jpg" length="{{$len}}" type="image/jpg" />{{end}}
       <!-- specify chapter information -->
       <chapters>
                       {{ .Params.chapters }}
