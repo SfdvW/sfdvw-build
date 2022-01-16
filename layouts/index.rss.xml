@@ -28,7 +28,8 @@
       <guid>{{ .Permalink }}</guid>
       <description>{{ .Content | html }}</description>
       <enclosure url="{{ .Params.link }}" type="audio/mpeg" length="58000000" />
-        {{ with .File.TranslationBaseName }}{{ $image_location := printf "static/img/blog/%s.jpg" .}}{{$image := readFile $image_location }}{{$len := len $image}}<enclosure url="https://sfdvw.de/img/blog/{{.}}.jpg" length="{{$len}}" type="image/jpg" />{{end}}
+        {{ with .File.TranslationBaseName }}{{ $image_location := printf "static/img/blog/%s.jpg" .}}{{$image := readFile $image_location }}{{$len := len $image}}<enclosure url="https://sfdvw.de/img/blog/{{.}}.jpg" length="{{$len}}" type="image/jpg" />
+      <itunes:image href="https://sfdvw.de/img/blog/{{.}}.jpg"/>{{end}}
       <!-- specify chapter information -->
       <chapters>
                       {{ .Params.chapters }}
