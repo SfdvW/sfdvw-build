@@ -18,7 +18,7 @@ Feedback zur Sendung?
 [Schreibe uns ein Kommentar](mailto:SfdvW@radiocorax.de)
 
 ## SfdvW - 119 - Regen angesagt
-mit dabei: tmk
+mit dabei: tmk und nilo
 
 ### Wettervorhersage
 
@@ -28,4 +28,6 @@ mit dabei: tmk
 * Automatisierte Vorhersagen von der National Oceanic and Atmospheric Administration, Station WXK27 in Austin, Texas http://radio.garden/listen/wxk-27-noaa-weather-radio/9cm0noSD
 * Wetter- und Seewetterberichte vom Deutschlandfunk https://www.deutschlandradio.de/seewetter-104.html
 
+### hier ist KEIN Audio online
 
+Bitte habt Verständnis das wir nicht alle veröffentliche Sendungen im Radio auch hier online zum Nachhören anbieten. Eine paar Shownotes und Anmekungen möchten wir trotzdessen hier hinterlegen. Solltet Ihr doch austauschbadarf haben, so [Schreibe uns ein Kommentar](mailto:SfdvW@radiocorax.de). 

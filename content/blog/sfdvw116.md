@@ -33,3 +33,7 @@ mit dabei: tmk, nilo
 * 10 Miserere mei, Deus - Gregoriro Allegri - Tenebrae Choir https://www.youtube.com/watch?v=H3v9unphfi0  
 
 Frohe Ostern!
+
+### hier ist KEIN Audio online
+
+Bitte habt Verständnis das wir nicht alle veröffentliche Sendungen im Radio auch hier online zum Nachhören anbieten. Eine paar Shownotes und Anmekungen möchten wir trotzdessen hier hinterlegen. Solltet Ihr doch austauschbadarf haben, so [Schreibe uns ein Kommentar](mailto:SfdvW@radiocorax.de).
