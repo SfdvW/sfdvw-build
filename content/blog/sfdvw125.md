@@ -138,6 +138,9 @@ Heute befinden wir uns thematisch im 11 Meter Band oder anders gesagt auf der Fu
 * https://de.wikipedia.org/wiki/ROS_(Betriebsart)
 
 
+![Studio3_mit_Gaesten](https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(125)_2023_04_15_CB_Funk.jpg)
+
+
 <script>
   podlovePlayer('#example', '/blog/sfdvw125.json');
 </script>
